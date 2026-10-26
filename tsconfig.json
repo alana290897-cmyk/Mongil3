@@ -40,9 +40,18 @@
     "**/*.mts"
   ],
   "exclude": [
-    "node_modules",
-    "original-cloudflare",
-    "export-data",
-    ".netlify"
+  "node_modules",
+  ".netlify",
+  ".local-data",
+  "original-cloudflare",
+  "export-data",
+  "db",
+  "scripts",
+  "worker",
+  "examples",
+  "drizzle",
+  "vite.config.ts",
+  "drizzle.config.ts",
+  "cloudflare-env.d.ts"
   ]
 }
