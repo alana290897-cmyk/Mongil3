@@ -1,5 +1,5 @@
 import {cookies} from 'next/headers';
-import {env} from 'cloudflare:workers';
+import {env} from './runtime-env';
 import {getChatGPTUser} from './chatgpt-auth';
 export const ownerEmail='chungndtq001@gmail.com';
 export async function digest(s:string){return Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s)))).map(n=>n.toString(16).padStart(2,'0')).join('')}

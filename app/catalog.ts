@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+import {env} from './runtime-env';
 import baseline from './catalog-seed.json';
 export type Asset={id:string;kind:string;title:string;image:string;source:string;description?:string;rarity?:string;slot?:string;setId?:string;setName?:string;effects?:{count:number;text:string}[];hasLink?:boolean;linkName?:string;updated?:string;[key:string]:any};
 export const assetKinds=['equipment','monsterling','legend','artifact','set'];

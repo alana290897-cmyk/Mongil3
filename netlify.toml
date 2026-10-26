@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NPM_FLAGS = "--no-audit --no-fund"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+[functions]
+  included_files = ["node_modules/sql.js/dist/sql-wasm.wasm", "export-data/restore-new-database.sql"]
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

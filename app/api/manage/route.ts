@@ -1,11 +1,13 @@
-import { env } from 'cloudflare:workers';
+import {sameOrigin} from '../../../lib/request-origin';
+import { withDatabase } from '../../../lib/netlify-database';
+import { env } from '../../runtime-env';
 import {getUser,ensureOwner,ownerEmail} from '../../account-auth';
 import seed from '../../seed.json';
 import {getCatalog,assetKinds,buildSnapshot} from '../../catalog';
 export const dynamic='force-dynamic';
 const fail=(message:string,status=400)=>Response.json({error:message},{status});
-export async function POST(req:Request){
- if(req.headers.get('origin')!==new URL(req.url).origin)return fail('Yêu cầu không hợp lệ.',403);
+async function POSTHandler(req:Request){
+ if(!sameOrigin(req))return fail('Yêu cầu không hợp lệ.',403);
  const u=await getUser();if(!u?.local)return fail('Vui lòng đăng nhập.',401);
  if(Number(req.headers.get('content-length')||0)>150000)return fail('Nội dung quá dài.');
  let b:any;try{const raw=await req.text();if(raw.length>150000)return fail('Nội dung quá dài.');b=JSON.parse(raw)}catch{return fail('Dữ liệu không hợp lệ.')}
@@ -62,3 +64,5 @@ export async function POST(req:Request){
  await db.batch([db.prepare('INSERT INTO records (id,kind,title,status,author,payload,updated) VALUES (?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET title=excluded.title,status=excluded.status,payload=excluded.payload,updated=excluded.updated').bind(id,item.kind,title,status,existing?.author||u.userId,JSON.stringify(p),now),log(b.action==='delete'?'Xóa nội dung':'Lưu: '+status,title)]);
  return Response.json({ok:true,id});
 }
+
+export async function POST(req: Request) { try { return await withDatabase(() => POSTHandler(req)); } catch(e) { console.error("Atlas API error", e); return Response.json({error:"Không thể kết nối dữ liệu. Vui lòng thử lại."},{status:503}); } }

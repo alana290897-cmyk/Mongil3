@@ -1,8 +1,9 @@
-import { env } from 'cloudflare:workers';
+import { withDatabase } from '../../../lib/netlify-database';
+import { env } from '../../runtime-env';
 import { getUser,ensureOwner } from '../../account-auth';
 import seed from '../../seed.json';
 export const dynamic = 'force-dynamic';
-export async function GET(){
+async function GETHandler(){
  const user=await getUser();const db=env.DB!;
  let member:any=null;
  if(user){member=await db.prepare('SELECT role FROM members WHERE user_id = ? OR (email = ? AND user_id IS NULL)').bind(user.userId,user.email.toLowerCase()).first();if(member)await db.prepare('UPDATE members SET user_id = ? WHERE email = ? AND user_id IS NULL').bind(user.userId,user.email.toLowerCase()).run();}
@@ -17,3 +18,5 @@ export async function GET(){
  const audit=own?(await db.prepare('SELECT * FROM audit ORDER BY time DESC LIMIT 30').all()).results:[];
  return Response.json({items,user:user?.local?{id:user.userId,name:user.displayName,email:user.email,local:user.local}:null,role,initialized,members,audit,canSetup:!!user&&!initialized&&(env as any).BOOTSTRAP_ADMIN==='true'},{headers:{'Cache-Control':'no-store'}});
 }
+
+export async function GET(req: Request) { try { return await withDatabase(() => GETHandler()); } catch(e) { console.error("Atlas API error", e); return Response.json({error:"Không thể kết nối dữ liệu. Vui lòng thử lại."},{status:503}); } }

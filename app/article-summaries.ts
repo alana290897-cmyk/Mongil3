@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+import {env} from './runtime-env';
 import seed from './seed.json';
 export const manual:Record<string,{summary:string;highlights:string[]}>= {
  'forum-719':{summary:'Buổi Developer Lounge tháng 10 đề cập hợp tác Fortnite, việc rà soát Nagi và các cải tiến được chuẩn bị cho phiên bản 1.5.',highlights:['Có thông tin về chế độ đi bộ và các đợt quay lại Summer Dive.','Nhà phát triển tiếp nhận phản hồi về hệ thống Monsterling và kết quả khảo sát phiên bản 1.4.','Mã được công bố trong buổi phát sóng: HAPPYHALF1014.']},

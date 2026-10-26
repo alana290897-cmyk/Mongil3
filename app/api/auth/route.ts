@@ -1,11 +1,13 @@
-import {env} from 'cloudflare:workers';
+import {sameOrigin} from '../../../lib/request-origin';
+import { withDatabase } from '../../../lib/netlify-database';
+import {env} from '../../runtime-env';
 import {cookies} from 'next/headers';
 import {digest,passwordHash,getUser,ownerEmail} from '../../account-auth';
 import {getChatGPTUser} from '../../chatgpt-auth';
 export const dynamic='force-dynamic';
 const fail=(s:string,status=400)=>Response.json({error:s},{status});
-export async function POST(req:Request){
- if(req.headers.get('origin')!==new URL(req.url).origin)return fail('Yêu cầu không hợp lệ.',403);
+async function POSTHandler(req:Request){
+ if(!sameOrigin(req))return fail('Yêu cầu không hợp lệ.',403);
  let b:any;try{const t=await req.text();if(t.length>4000)return fail('Dữ liệu quá dài.');b=JSON.parse(t)}catch{return fail('Dữ liệu không hợp lệ.')}
  const db=env.DB!;const jar=await cookies();
  if(b.action==='logout'){const token=jar.get('atlas_session')?.value;if(token)await db.prepare('DELETE FROM sessions WHERE token_hash=?').bind(await digest(token)).run();jar.set('atlas_session','',{httpOnly:true,secure:true,sameSite:'lax',path:'/',maxAge:0});return Response.json({ok:true});}
@@ -25,3 +27,5 @@ export async function POST(req:Request){
  if(bootstrap){const token=crypto.randomUUID()+crypto.randomUUID();await db.prepare('INSERT INTO sessions(token_hash,user_id,expires) VALUES (?,?,?)').bind(await digest(token),id,new Date(Date.now()+604800000).toISOString()).run();jar.set('atlas_session',token,{httpOnly:true,secure:true,sameSite:'lax',path:'/',maxAge:604800});}
  return Response.json({ok:true});
 }
+
+export async function POST(req: Request) { try { return await withDatabase(() => POSTHandler(req)); } catch(e) { console.error("Atlas API error", e); return Response.json({error:"Không thể kết nối dữ liệu. Vui lòng thử lại."},{status:503}); } }

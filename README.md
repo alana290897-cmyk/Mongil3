@@ -1,133 +1,76 @@
-# vinext-starter
+# MONGIL Atlas VN — bản chạy Netlify
 
-A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
+Giữ nguyên giao diện, CSS, 610 tệp ảnh/assets, 29 nhân vật với 145 kỹ năng, danh mục 395 trang bị/Monsterling/Artifact/set, các trang build/team, tin và leak của bản gốc. Thay bộ chạy Vinext/Cloudflare bằng Next.js trên Netlify; giữ nguyên logic nghiệp vụ API. Không thay đổi website ChatGPT Sites đang chạy.
 
-## Prerequisites
+## Đưa lên Netlify qua repo GitHub hiện tại
 
-- Node.js `>=22.13.0`
-- Portable: Windows, macOS, or Linux; no Bash required
-- Managed Linux: managed Linux runtime with Bash, `flock`, `curl`, `sha256sum`, and GNU `timeout`
-- Git and `tar` (including Windows `tar.exe`) are required for publishing; portable publication does not require Bash
+**Phải thay toàn bộ source cũ trong repo, không chỉ chép đè vài tệp.** Source cũ có `pnpm-lock.yaml`, `pnpm-workspace.yaml`, `vite.config.ts` và các cấu hình Cloudflare ở thư mục gốc sẽ khiến Netlify dùng nhầm cấu hình. Bản này dùng npm với `package-lock.json`.
 
-## Sites Lifecycle
+Cách giữ đủ thư mục và ảnh trên Windows là dùng GitHub Desktop:
 
-The Sites initializer copies the shared starter and selects managed-linux only when `SITES_MANAGED_LINUX_CONTAINER=1`; otherwise it selects portable. It saves the selection only in ignored `.sites-runtime/execution-profile.json`. Both profiles copy/configure first, then use the plugin's separate `install-dependencies.mjs` step to measure installation independently. Edit source under `app/` and follow the Sites skill for installation, preview, builds, and publishing.
+1. Giải nén ZIP vào thư mục ngắn, ví dụ `C:\Mongil`.
+2. Trong GitHub Desktop, chọn File → Clone repository → chọn repo `Mongil3` rồi Clone.
+3. Chọn Repository → Show in Explorer để mở thư mục repo đã clone.
+4. Sao lưu source cũ nếu cần. Xóa các tệp/thư mục source cũ bên trong repo, **giữ nguyên thư mục `.git`**. Bật View → Show → Hidden items để thấy các thư mục bắt đầu bằng dấu chấm.
+5. Mở thư mục `MONGIL-Atlas-VN` vừa giải nén. Chép **nội dung bên trong** thư mục này vào thư mục repo. `package.json`, `package-lock.json`, `netlify.toml`, `app`, `public` phải nằm ngay ở gốc repo, không bị lồng thêm một tầng thư mục. Không upload chính tệp ZIP vào repo.
+6. Quay lại GitHub Desktop → ghi Summary `Chuyen MONGIL Atlas sang Netlify` → Commit to main → Push origin.
+7. Netlify: mở project đã liên kết repo → Project configuration → Build & deploy hoặc Developer settings → kiểm tra thiết lập:
 
-Run `node <plugin-root>/scripts/configure-execution-profile.mjs` only when the profile is unknown for the current checkout and environment. Profile changes do not alter tracked source or require reinstalling otherwise-valid dependencies; restart an existing preview to use the new selection. Do not commit or upload `.sites-runtime/`.
+| Mục | Giá trị |
+|---|---|
+| Base directory | Để trống nếu source ở gốc repo |
+| Package directory | Để trống |
+| Build command | `npm run build` |
+| Publish directory | `.next` |
+| Node.js | `24` |
 
-This starter does not use `wrangler.jsonc`.
+`netlify.toml` có sẵn các thiết lập trên và Next.js adapter. Nếu đã tự thêm biến `PNPM_FLAGS`, `NETLIFY_USE_PNPM` hoặc build command cho bản cũ thì bỏ các thiết lập đó. Không cần tạo `.openai/hosting.json` ở gốc repo cho bản chuyển đổi này. Không chọn `dist`, `out` hoặc `public` làm Publish directory.
 
-Publish archives outside the source checkout or under its ignored `outputs/` directory. Local `.env*`, `.dev.vars*`, TypeScript build state, and tool runtime directories are ignored; keep the hosting manifest, migrations, and authored scripts in source control.
+8. Vào Deploys → Trigger deploy → Clear cache and deploy site. Đợi Netlify báo Published.
+9. Mở website → Đăng nhập bằng **admin / admin**.
 
-`install:ci` runs `npm ci` once against the shared lockfile, disables parent-workspace discovery, and includes required dev/optional dependencies despite production/omit settings. Sharp defaults to prebuilt binaries unless explicitly configured otherwise. Do not overlap installers.
+Đây là app có backend. Dùng Git deployment để Netlify build cả API; không kéo ZIP source vào Netlify Drop. Tài khoản Netlify phải có Netlify Blobs khả dụng. Không cần cung cấp token lưu trữ trong mã nguồn: Netlify Functions cấp ngữ cảnh truy cập cho app.
 
-- **Portable:** Preserve host HOME, npm cache, registry, proxy, temporary paths, retry/concurrency settings, and lifecycle-script policy. Use `--prefer-offline --no-audit --no-fund`.
-- **Managed Linux:** Use the existing project-local HOME/cache/tmp setup and Linux install lock, tarball preflight, and timeout. Restore the image-seeded npm cache only when its lockfile hash matches; retain network fallback. Builds keep their existing timeout. These helpers are not invoked by the portable profile.
+## Tài khoản, dữ liệu và lưu lâu dài
 
-`scripts/sites-env.mjs` preserves the caller's HOME, npm cache, proxy, XDG, and temporary-directory configuration while defaulting Wrangler and Miniflare state to the checkout. If npm reports an unwritable cache, select a writable path with `npm_config_cache` for that install. The `dev` and `start` scripts also keep Wrangler logs inside the checkout. Generated `.sites-runtime/` and `.wrangler/` directories are disposable and ignored by Git.
+Lần chạy API đầu tiên tự khởi tạo dữ liệu xuất từ bản gốc và tài khoản `admin/admin`. Mật khẩu được lưu dưới dạng PBKDF2, không lưu plain text trong database. Quản trị có thể đổi mật khẩu và tạo tài khoản mới trong mục Tài khoản & phân quyền. Quy tắc mật khẩu mới giữ nguyên tối thiểu 10 ký tự.
 
-On portable, `npm run dev` uses `vinext dev` with HMR, starting at port 5173. Vinext records the running server in ignored `.vinext/` state, rejects an ordinary duplicate launch, and recovers stale state after a stopped process; exactly simultaneous starts can race. Pass `--port <port>` or `--hostname <host>` after `npm run dev --` when needed; keep portable previews on loopback.
+Dữ liệu động (build/team, người dùng, phiên đăng nhập, nguồn, cập nhật catalog) nằm trong Netlify Blobs site-wide store `mongil-atlas-v1`, key `atlas.sqlite`, không nằm trong filesystem tạm của Functions. Dữ liệu còn khi reload/cold start và khi deploy lại **cùng Netlify project**. Mỗi project Netlify mới có dữ liệu riêng. Khởi tạo chỉ thực hiện khi chưa có database; deploy không đặt lại mật khẩu hoặc ghi đè dữ liệu đã soạn.
 
-For managed Linux browser QA, follow the Sites skill's managed preview reference. The daemon runs the project's Vite dev script with `--host 0.0.0.0 --port 4173 --strictPort`; use the CLI's returned URL. The ignored local profile survives the daemon's cleared environment.
+Các thao tác ghi dùng phiên bản ETag và đọc strong consistency. Khi hai phiên sửa cùng lúc, phiên có dữ liệu cũ nhận 409 và thông báo thử lại thay vì ghi đè mất dữ liệu. Cấu trúc SQLite, batch transaction và quy tắc phân quyền gốc được giữ. Có thể tải `atlas.sqlite` trong Netlify Blobs để sao lưu, không chia sẻ file database này công khai vì có dữ liệu tài khoản và phiên đăng nhập.
 
-The portable profile simulates ChatGPT sign-in only for loopback development requests. Visit `/signin-with-chatgpt?return_to=/` to sign in as `local_seedy` (`seedy@sites.test`, display name `Seedy`) and `/signout-with-chatgpt?return_to=/` to sign out. The development cookie preserves that identity across server restarts. Mock auth is disabled in the managed-linux profile and is not included in production builds; hosted authentication remains dispatch-owned.
+Khách chưa đăng nhập chỉ xem. Quản trị đăng nhập bằng user/pass mới thêm/sửa/xóa được. ChatGPT SSO không cần thiết cho bản Netlify và các header nhận diện từ trình duyệt không cấp quyền quản trị. `/setup` đưa về trang chủ.
 
-The Worker uses `vinext/server/fetch-handler`, including Vinext's config-aware image handling. After building, `npm start` runs that Worker locally through Wrangler on `127.0.0.1`, sharing `.wrangler/state` with dev preview and local D1 migrations; it does not deploy the site or simulate sign-in. Use the URL printed by the server. Pass `npm start -- --port <port>` to select a different built-preview port.
+## Nguồn nội dung
 
-Local previews use Miniflare's placeholder `Request.cf` metadata without a network lookup. Set `CLOUDFLARE_CF_FETCH_ENABLED=true` to opt into fetching preview metadata; this setting does not change hosted request metadata.
+Giữ nguyên logic đồng bộ forum, nguồn Netmarble và dữ liệu cộng đồng. Tin/leak có dữ liệu nền và chức năng tải lại. Đồng bộ phụ thuộc nguồn ngoài và kết nối mạng. Fanpage Facebook vẫn cần hai biến Functions `FB_PAGE_ID` và `FB_PAGE_ACCESS_TOKEN` do bạn cung cấp nếu muốn dùng; không có token Facebook trong gói này.
 
-Local tool usage metrics are disabled by default. Set `WRANGLER_SEND_METRICS=true` to opt in.
+Dữ liệu đã xuất gồm team Test1, dữ liệu nhân vật/catalog nền và các summary đọc được đầy đủ. Cache feed dài bị giới hạn khi xuất không đưa vào SQL; feed nền đã có trong mã nguồn và chức năng đồng bộ tải lại tin mới. Không có bản sao mật khẩu/session của hệ thống đang chạy.
 
-## Included Shape
+## Chạy và kiểm tra tại máy
 
-- edit site code under `app/`
-- `app/chatgpt-auth.ts` provides optional dispatch-owned ChatGPT sign-in helpers
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `worker/index.ts` is the production Worker entrypoint and preserves request-scoped connector bindings
-- `scripts/vite/` contains the maintained Vite integrations and the vendored Sites plugin license
-- `scripts/connector-preview/` contains the local connector preview Worker and session helpers
-- the remaining `scripts/` files select execution profiles and run installation, development, and builds; the plugin's helpers orchestrate the Sites lifecycle
-- `dist/` contains generated deployment output; `.vinext/`, `.wrangler/`, and `.sites-runtime/` contain ignored local tool state
-- `db/index.ts` reads the D1 binding from the Cloudflare Worker environment
-- `db/schema.ts` starts intentionally empty
-- `@cloudflare/workers-types` provides Worker types; `cloudflare-env.d.ts` declares optional `DB`/`BUCKET` bindings—update these declarations if binding names change
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
-
-## Workspace Auth Headers
-
-Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonymous visitors, for whom neither header is present.
-
-The user ID is stable for the same user on the same Site and different across Sites. Use it as the durable user key; use email and name for display or contact purposes.
-
-SIWC-authenticated workspace sites may also receive `oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty `name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by `oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const userId = requestHeaders.get("oai-authenticated-user-id");
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
-```
-
-## Optional Dispatch-Owned ChatGPT Sign-In
-
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs optional or required ChatGPT sign-in:
-
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use the returned `userId` as the stable user key for user-owned records; do not use email as a durable identifier.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send anonymous visitors through Sign in with ChatGPT.
-- In a Server Component, start sign-in with `<a href={chatGPTSignInPath(returnTo)} target="_top">`. The auth helper module is server-only; do not import it into a Client Component.
-- Do not use `fetch`, XHR, a client-side router, or a framework link that can prefetch the sign-in route. SIWC must start as a top-level navigation.
-- Never request the AuthAPI authorization endpoint directly. The dispatch-owned `/signin-with-chatgpt` route must start the SIWC flow.
-- Use `chatGPTSignOutPath(returnTo)` for browser sign-out links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because they depend on per-request identity headers.
-
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the OAuth cookies, and identity header injection. Do not implement app routes for those reserved paths. Routes that do not import and call the helper remain anonymous-compatible.
-
-SIWC establishes identity only; it does not prove workspace membership. Use the Sites hosting platform's access policy controls for workspace-wide restrictions, or enforce explicit server-side membership or allowlist checks.
-
-Use SIWC for account pages, user-specific dashboards, saved records, and write actions tied to the current ChatGPT user. Leave public content anonymous.
-
-## Local D1 migrations
-
-For a D1-backed local preview, generate SQL with `npm run db:generate`. Build once through the Sites skill's build entrypoint (or `npm run build` for standalone use) to generate `dist/server/wrangler.json`, rebuilding if bindings change. From the project root, apply each pending migration in order:
+Cần Node.js 24:
 
 ```sh
-node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0000_example.sql
+npm ci
+npm run build
+npm start
 ```
 
-Replace the filename with the pending migration and `DB` with your D1 binding name if different. Use `.wrangler/state`, not `.wrangler/state/v3`; Wrangler adds the versioned directories. Do not replay migrations already applied locally. This updates only the preview database; publishing applies production migrations separately.
+Mở `http://localhost:3000`. Khi chạy local, dữ liệu lưu ở `.local-data/atlas.sqlite` và không được đưa vào Git. Khi chạy trên Netlify, app dùng Netlify Blobs; nếu lưu trữ lỗi, API báo lỗi thay vì âm thầm lưu vào filesystem tạm.
 
-## Diagnostic Commands
+```sh
+npm test
+```
 
-- `npm run install:ci`: perform the one locked dependency install
-- `npm run dev`: start the Vite/Vinext development server
-- `npm run build`: build the deployable Sites artifact
-- `npm run start`: preview the built Worker locally with D1/R2 support
-- `npm run db:generate`: generate Drizzle migrations after schema changes
+Kiểm tra database: tài khoản mặc định, dữ liệu qua các request, khởi tạo một lần, xung đột cập nhật và rollback batch. `tests/http.test.mjs` là kiểm tra HTTP trên bản production: đặt biến `ATLAS_HTTP_TEST=1` rồi chạy `node --test tests/http.test.mjs` sau bước build. Chỉ chạy test HTTP với database local để tránh tác động nội dung thật.
 
-When using the Sites plugin, follow its skill instructions for installation, builds, and publishing. These npm commands remain available for standalone use.
+## Phạm vi kiểm tra đã hoàn tất
 
-The portable build runs Vinext directly without a host `timeout` command. The managed-linux build uses `scripts/build-verified.sh` and its existing `SITES_BUILD_TIMEOUT` setting.
+- Next.js production build và TypeScript thành công.
+- Netlify CLI `netlify build --offline` thành công, đóng gói Next.js Server Handler Node.js 24 và đủ SQL bootstrap/WASM. Đây là kiểm tra build/đóng gói offline, chưa triển khai vào tài khoản Netlify của bạn.
+- HTTP production: khách chỉ xem, đăng nhập admin/admin, thêm/sửa/xóa build và team đã publish, chọn ảnh vật phẩm/Legend, đăng xuất, chặn giả mạo header người dùng.
+- UI/CSS, seed, catalog, feed nền và toàn bộ 610 tệp public đối chiếu byte-for-byte với source gốc.
+- ZIP được kiểm tra CRC, giải nén và đối chiếu nội dung sau khi đóng gói.
 
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+Source Cloudflare trước chuyển đổi được giữ trong `original-cloudflare/` để đối chiếu; không được dùng bởi bản build Netlify. Không upload `node_modules`, `.next`, `.netlify` hoặc `.local-data`; ZIP đã bỏ các thư mục này.
