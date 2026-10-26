@@ -1,0 +1,77 @@
+{
+  "project_id": "appgprj_6adebfbe978481918a209f442197212c",
+  "binding_name": "DB",
+  "table_name": "settings",
+  "columns": [
+    "key",
+    "value"
+  ],
+  "rows": [
+    {
+      "key": "owner",
+      "value": "mfyU00mSi6CkZpnJJkVLtYYdngMVwZm4cgOXLijtrJmXKezYKNcwRR"
+    },
+    {
+      "key": "source-feed",
+      "value": "{\"items\":[{\"id\":\"forum-723\",\"kind\":\"news\",\"title\":\"10/20 (Tue) 「Full Speed Runaway Train Crash」Update Notice\",\"status\":\"published\",\"author\":\"sync\",\"updated\":\"2026-10-21T01:51:22.052Z\",\"payload\":{\"source\":\"https://forum.netmarble.com/stardive_gl/view/8/723\",\"sourceType\":\"official\",\"body\":\"\",\"version\":\"Cập nhật\",\"summary\":\"Thông tin cập nhật nội dung trò chơi và các thay đổi được nhà phát hành công bố.\",\"highlights\":[\"Mốc ngày trong bài: 10/20 (Tue).\"],\"summaryPartial\":true}},{\"id\":\"netmarble-7074\",\"kind\":\"news\",\"title\":\"MONGIL: STAR DIVE WELCOMES POWERHOUSE FIGHTER CHLOE IN NEW UPDATE\",\"status\":\"published\",\"author\":\"sync\",\"updated\":\"2026-10-21T00:00:00.000Z\",\"payload\":{\"source\":\"https://org-ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=7074\",\"sourceType\":\"official\",\"body\":\"\",\"version\":\"Netmarble\",\"summary\":\"Chloe ra mắt dưới dạng nhân vật Phong 5 sao, vai trò Fighter. Đợt cập nhật đi kèm cốt truyện sự kiện và hoạt động giới hạn.\",\"highlights\":[\"Sự kiện The Road to a Broken Heart mở trong ba tuần.\",\"Có nhiệm vụ riêng, quà đăng nhập của Chloe và đợt tuyển mộ quay lại Esther, Nagi.\",\"Hoạt động Halloween Nightmarch được lên lịch cho tuần tiếp theo của bản cập nhật.\"],\"summaryPartial\":false}},{\"id\":\"forum-722\",\"kind\":\"news\",\"title\":\"10/20 (Tue) Maintenance Notice [Completed]\",\"status\":\"published\",\"author\":\"sync\",\"updated\":\"2026-10-19T23:30:10.692Z\",\"payload\":{\"source\":\"https://forum.netmarble.com/stardive_gl/view/2/722\",\"sourceType\":\"official\",\"body\":\"\",\"version\":\"Thông báo\",\"summary\":\"Thông báo vận hành, bảo trì hoặc sửa lỗi của MONGIL: STAR DIVE.\",\"highlights\":[\"Có thông tin bảo trì; cần đối chiếu mốc UTC ghi trong thông báo.\",\"Mốc ngày trong bài: 10/20 (… [truncated for model]"
+    },
+    {
+      "key": "summary:forum-163",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Esther, Mina, Verna, Cloud, Vivian.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Mốc ngày trong bài: 4/10 (Fri) at 11:00; 4/14 (Tue) 01:00; 4/15 (Tue) 01:00; 5/13 (Wed) 02:59.\"],\"summaryUpdated\":\"2026-10-26T04:12:59.678Z\"}"
+    },
+    {
+      "key": "summary:forum-221",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Esther, Mina.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Có thay đổi liên quan trang bị.\",\"Có cốt truyện sự kiện và hoạt động giới hạn đi kèm.\",\"Có thông tin bảo trì; cần đối chiếu mốc UTC ghi trong thông báo.\",\"Mốc ngày trong bài: 4/24 (Fri) at 10:00; 4/24 (Fri); 4/23 (Thu); 4/24 (Fri) - 5/7 (Thu) 23:59; 5/7 (Thu) 23:59.\"],\"summaryUpdated\":\"2026-10-26T04:12:59.610Z\"}"
+    },
+    {
+      "key": "summary:forum-272",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Narae, Nagi, Mina.\",\"Phiên bản được nêu: 1.1, 1.2.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Có thay đổi liên quan trang bị.\",\"Mốc ngày trong bài: 4/30 (Thu) at 10:00; 4/30 (Thu); 4/24 (Fri); 5/7 (Thu) 14:59.\"],\"summaryUpdated\":\"2026-10-26T04:12:59.613Z\"}"
+    },
+    {
+      "key": "summary:forum-410",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Narae, Nagi.\",\"Phiên bản được nêu: 1.2.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Có thay đổi liên quan trang bị.\",\"Mốc ngày trong bài: 6/16 (Tue) at 19:00; 6/16 (Tue); 6/17 (Wed) 01:00; 5/27 (Wed); 7/6 (Mon) 23:59.\"],\"summaryUpdated\":\"2026-10-26T04:12:59.625Z\"}"
+    },
+    {
+      "key": "summary:forum-494",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Narae, Jiwon, Ophelia, Mabel, Brisshell.\",\"Phiên bản được nêu: 1.3, 1.2.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Mốc ngày trong bài: 7/20 (Mon) 10:00; 7/29 (Wed); 7/20 (Mon); 7/28 (Tue).\"],\"summaryUpdated\":\"2026-10-26T04:12:59.605Z\"}"
+    },
+    {
+      "key": "summary:forum-523",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Brisshell.\",\"Mốc ngày trong bài: 8/12 (Wed) at 10:00; 8/18 (Tue); 8/12 (Wed) / 01:00; 8/13 (Thu); 8/10 (Mon) at 01:50.\"],\"summaryUpdated\":\"2026-10-26T04:12:59.611Z\"}"
+    },
+    {
+      "key": "summary:forum-541",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Narae, Jiwon, Cloud, Ophelia, Brisshell.\",\"Phiên bản được nêu: 1.4, 1.3.\",\"Có mục điều chỉnh cân bằng nhân vật hoặc hiệu ứng chiến đấu.\",\"Có thay đổi liên quan trang bị.\",\"Mốc ngày trong bài: 8/12 (Wed) at 10:00; 8/18 (Tue); 8/12 (Wed); 9/3 (Thu); 8/18 (Tue) 23:30.\"],\"summaryUpdated\":\"2026-10-26T04:08:52.723Z\"}"
+    },
+    {
+      "key": "summary:forum-574",
+      "value": "{\"summary\":\"Thông tin mới từ nhà phát hành MONGIL: STAR DIVE.\",\"highlights\":[\"Mốc ngày trong bài: 9/8 (Tue).\"],\"summaryUpdated\":\"2026-10-26T04:08:52.514Z\"}"
+    },
+    {
+      "key": "summary:forum-584",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Vivian.\",\"Mốc ngày trong bài: 9/2 (Wed) at 10:00; 9/8 (Tue); 9/2 (Wed); 9/2 (Wed) 10:00.\"],\"summaryUpdated\":\"2026-10-26T04:08:52.789Z\"}"
+    },
+    {
+      "key": "summary:forum-614",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Phiên bản được nêu: 1.4.\",\"Có thay đổi liên quan trang bị.\",\"Mốc ngày trong bài: 9/22 (Tue) at 10:00; 9/23 (Wed) at 01:00; 9/29 (Tue); 9/22 (Tue); 9/22 (Tue) 10:00.\"],\"summaryUpdated\":\"2026-10-26T04:08:52.517Z\"}"
+    },
+    {
+      "key": "summary:forum-685",
+      "value": "{\"summary\":\"Tổng hợp trao đổi của nhà phát triển về nội dung, nhân vật và thay đổi dự kiến.\",\"highlights\":[\"Nhân vật được đề cập: Chloe.\",\"Có thay đổi liên quan trang bị.\",\"Mốc ngày trong bài: 10/14 (Wed) at 10:00; 10/21 (Wed); 10/14 (Wed); 10/14 (Wed) 10:00.\"],\"summaryUpdated\":\"2026-10-26T04:08:52.534Z\"}"
+    },
+    {
+      "key": "summary:netmarble-6806",
+      "value": "{\"summary\":\"Thông tin cập nhật nội dung trò chơi và các thay đổi được nhà phát hành công bố.\",\"highlights\":[\"Nhân vật được đề cập: Nagi, Mina.\",\"Phiên bản được nêu: 1.2.\",\"Có nội dung về cải tiến thuộc tính hoặc quản lý Monsterling.\",\"Có cốt truyện sự kiện và hoạt động giới hạn đi kèm.\"],\"summaryUpdated\":\"2026-10-26T04:08:52.580Z\"}"
+    }
+  ],
+  "limit": 25,
+  "offset": 0,
+  "has_more": false,
+  "model_projection": {
+    "truncated": true,
+    "truncated_values": 1,
+    "omitted_columns": 0,
+    "omitted_rows": 0,
+    "next_offset": null
+  }
+}

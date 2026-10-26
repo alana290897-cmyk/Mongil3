@@ -1,0 +1,35 @@
+{
+  "project_id": "appgprj_6adebfbe978481918a209f442197212c",
+  "binding_name": "DB",
+  "table_name": "records",
+  "columns": [
+    "id",
+    "kind",
+    "title",
+    "status",
+    "author",
+    "payload",
+    "updated"
+  ],
+  "rows": [
+    {
+      "id": "6cc9d6c0-19a0-44dd-bb48-0833327519c2",
+      "kind": "team",
+      "title": "Test1",
+      "status": "published",
+      "author": "mfyU00mSi6CkZpnJJkVLtYYdngMVwZm4cgOXLijtrJmXKezYKNcwRR",
+      "payload": "{\"element\":\"Chưa xác minh\",\"role\":\"Chưa xác minh\",\"body\":\"Test\",\"source\":\"\",\"sourceType\":\"community\",\"team\":[\"char-narae\",\"char-leeho\",\"char-yeonhwa\"]}",
+      "updated": "2026-10-26T03:34:29.397Z"
+    }
+  ],
+  "limit": 25,
+  "offset": 0,
+  "has_more": false,
+  "model_projection": {
+    "truncated": false,
+    "truncated_values": 0,
+    "omitted_columns": 0,
+    "omitted_rows": 0,
+    "next_offset": null
+  }
+}
