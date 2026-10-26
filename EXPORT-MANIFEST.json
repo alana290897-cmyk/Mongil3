@@ -1,0 +1,20 @@
+{
+  "site": "MONGIL Atlas VN",
+  "url": "https://mongil-atlas-vn.chungndtq001.chatgpt.site",
+  "commit": "66d81d4af32ec3567163549cdbf5a0ad1e1f6959",
+  "exportedAt": "2026-10-26T07:29:38.701236+00:00",
+  "originalSourceUnmodified": true,
+  "liveSiteChanged": false,
+  "defaultAdmin": {
+    "username": "admin",
+    "password": "admin",
+    "scope": "only the newly restored exported database"
+  },
+  "dataLimitations": [
+    "source-feed runtime cache value exceeds read export limit: raw partial value preserved in settings.json, omitted from restore SQL; app fetches this feed again when opened.",
+    "Existing credentials, sessions, login attempts and runtime secrets excluded; a fresh admin/admin credential is included instead.",
+    "ChatGPT hosting/SSO infrastructure is not exportable; original source integration code is included."
+  ],
+  "recordCount": 1,
+  "archiveRepair": "Repacked without generated dist duplicate; all original tracked source and public assets retained."
+}
