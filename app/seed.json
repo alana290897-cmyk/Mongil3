@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "char-narae",
+    "kind": "character",
+    "title": "Narae",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/narae.png",
+      "thumb": "/images/narae-portrait.webp",
+      "element": "Băng",
+      "role": "Support",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/narae-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/narae/",
+      "skillData": [
+        {
+          "id": "101400000",
+          "name": "Dew-Jade Barrage",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-narae-0.webp",
+          "description": "Bắn bong bóng Băng. Khi được nội tại cường hóa, thêm bướm, hút địch và gây đóng băng.",
+          "source": "https://www.kaiden.gg/mongil/characters/narae/"
+        },
+        {
+          "id": "101410000",
+          "name": "Dew Blankets All",
+          "type": "Active01",
+          "image": "/catalog/skill-narae-1.webp",
+          "description": "Tạo năng lượng nước và cấp Dew cho đội; tăng sát thương phù hợp nguyên tố và kiểu tấn công.",
+          "source": "https://www.kaiden.gg/mongil/characters/narae/"
+        },
+        {
+          "id": "101420000",
+          "name": "Bubble Spout",
+          "type": "Ultimate",
+          "image": "/catalog/skill-narae-2.webp",
+          "description": "Tạo bong bóng lớn gây mưa và bướm truy kích, áp dụng Ice Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/narae/"
+        },
+        {
+          "id": "101430000",
+          "name": "Prison of Dew",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-narae-3.webp",
+          "description": "Phóng sóng nước về phía trước, gây sát thương Băng và đẩy lùi.",
+          "source": "https://www.kaiden.gg/mongil/characters/narae/"
+        },
+        {
+          "id": "101450000",
+          "name": "Blessings of the Morning Dew",
+          "type": "Passive",
+          "image": "/catalog/skill-narae-4.webp",
+          "description": "Nhận lá chắn giúp tăng ATK và cường hóa đòn thường; có thể tiếp tục đánh sau khi đổi người.",
+          "source": "https://www.kaiden.gg/mongil/characters/narae/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/narae/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-nagi",
+    "kind": "character",
+    "title": "Nagi",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/nagi.png",
+      "thumb": "/images/nagi-portrait.webp",
+      "element": "Phong",
+      "role": "Destroyer",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/nagi-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/nagi/",
+      "skillData": [
+        {
+          "id": "103600000",
+          "name": "God-killing Slash",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-nagi-0.webp",
+          "description": "Đánh bằng quạt gió. Giữ nút ở đòn thứ tư hoặc phản né để dùng Heavenly Orbit và tích Divine Seduction.",
+          "source": "https://www.kaiden.gg/mongil/characters/nagi/"
+        },
+        {
+          "id": "103610000",
+          "name": "Alluring Bloom",
+          "type": "Active01",
+          "image": "/catalog/skill-nagi-1.webp",
+          "description": "Tạo luồng gió hất tung và ép xuống; trạng thái Alluring Empress’s Reign bổ sung vụ nổ.",
+          "source": "https://www.kaiden.gg/mongil/characters/nagi/"
+        },
+        {
+          "id": "103620000",
+          "name": "Abyss's Approach",
+          "type": "Ultimate",
+          "image": "/catalog/skill-nagi-2.webp",
+          "description": "Tạo nụ hoa hút địch, nở gây sát thương Phong và Wind Affliction; trạng thái cường hóa bổ sung giảm DEF.",
+          "source": "https://www.kaiden.gg/mongil/characters/nagi/"
+        },
+        {
+          "id": "103630000",
+          "name": "Concealed Spirit",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-nagi-3.webp",
+          "description": "Xuất hiện trong cánh hoa, tiếp đất tạo vụ nổ Phong và hất tung.",
+          "source": "https://www.kaiden.gg/mongil/characters/nagi/"
+        },
+        {
+          "id": "103650000",
+          "name": "Divine Seduction Manifestation",
+          "type": "Passive",
+          "image": "/catalog/skill-nagi-4.webp",
+          "description": "Đủ Divine Seduction giúp kích hoạt Alluring Empress’s Reign; đổi vào và phản né cũng liên quan các trạng thái cường hóa.",
+          "source": "https://www.kaiden.gg/mongil/characters/nagi/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/nagi/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-yeonhwa",
+    "kind": "character",
+    "title": "Yeonhwa",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/yeonhwa.png",
+      "thumb": "/images/yeonhwa-portrait.webp",
+      "element": "Lôi",
+      "role": "Assassin",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/yeonhwa-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/yeonhwa/",
+      "skillData": [
+        {
+          "id": "101100000",
+          "name": "Bloody Bamboo",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-yeonhwa-0.webp",
+          "description": "Chém nhanh gây sát thương vật lý; đòn kết thúc tạo Shadow mô phỏng chuyển động.",
+          "source": "https://www.kaiden.gg/mongil/characters/yeonhwa/"
+        },
+        {
+          "id": "101110000",
+          "name": "Thunder Chain Slash",
+          "type": "Active01",
+          "image": "/catalog/skill-yeonhwa-1.webp",
+          "description": "Áp sát và chém hệ Lôi; có thể dùng thêm lần trong thời gian cho phép nhưng hồi chiêu kéo dài.",
+          "source": "https://www.kaiden.gg/mongil/characters/yeonhwa/"
+        },
+        {
+          "id": "101120000",
+          "name": "Storm Call",
+          "type": "Ultimate",
+          "image": "/catalog/skill-yeonhwa-2.webp",
+          "description": "Gọi sét hất tung địch; trạng thái Lightning Strike chuyển đòn đánh sang Lôi và hỗ trợ tạo Shadow.",
+          "source": "https://www.kaiden.gg/mongil/characters/yeonhwa/"
+        },
+        {
+          "id": "101130000",
+          "name": "Seized Opportunity",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-yeonhwa-3.webp",
+          "description": "Quét kiếm hệ Lôi; đồng đội chí mạng có thể kích hoạt hỗ trợ và Lightning Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/yeonhwa/"
+        },
+        {
+          "id": "101150000",
+          "name": "Wraith",
+          "type": "Passive",
+          "image": "/catalog/skill-yeonhwa-4.webp",
+          "description": "Tăng sát thương chí mạng theo tăng sát thương Lôi; Shadow tham gia hỗ trợ và có thể dùng để dịch chuyển khi giữ né.",
+          "source": "https://www.kaiden.gg/mongil/characters/yeonhwa/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/yeonhwa/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-leeho",
+    "kind": "character",
+    "title": "Leeho",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/leeho.png",
+      "thumb": "/images/leeho-portrait.webp",
+      "element": "Hỏa",
+      "role": "Assassin",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/leeho-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/leeho/",
+      "skillData": [
+        {
+          "id": "101600000",
+          "name": "Wild Spear",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-leeho-0.webp",
+          "description": "Đâm chém vật lý; giữ nút để ném giáo Hỏa. Mục tiêu có Prey Mark giúp bỏ thời gian tích lực của Flash Spear.",
+          "source": "https://www.kaiden.gg/mongil/characters/leeho/"
+        },
+        {
+          "id": "101610000",
+          "name": "Commence Hunt",
+          "type": "Active01",
+          "image": "/catalog/skill-leeho-1.webp",
+          "description": "Lao tới đâm và xoay giáo; bấm lại đúng thời gian để ném lưới kéo địch.",
+          "source": "https://www.kaiden.gg/mongil/characters/leeho/"
+        },
+        {
+          "id": "101620000",
+          "name": "Crimson Meteor",
+          "type": "Ultimate",
+          "image": "/catalog/skill-leeho-2.webp",
+          "description": "Bay lên rồi nện xuống vị trí chọn, gây sát thương Hỏa mạnh và Fire Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/leeho/"
+        },
+        {
+          "id": "101630000",
+          "name": "A Whopper!",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-leeho-3.webp",
+          "description": "Ném lưới kéo địch; hỗ trợ khi đồng đội dùng kỹ năng đặc biệt, mở Hunting Stance sau đòn đánh.",
+          "source": "https://www.kaiden.gg/mongil/characters/leeho/"
+        },
+        {
+          "id": "101650000",
+          "name": "Hunter",
+          "type": "Passive",
+          "image": "/catalog/skill-leeho-4.webp",
+          "description": "Kỹ năng đổi người áp Prey Mark lên địch trúng, làm giảm kháng Hỏa.",
+          "source": "https://www.kaiden.gg/mongil/characters/leeho/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/leeho/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-sangun",
+    "kind": "character",
+    "title": "Sangun",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/sangun.png",
+      "thumb": "/images/sangun-portrait.webp",
+      "element": "Phong",
+      "role": "Fighter",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/sangun-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/sangun/",
+      "skillData": [
+        {
+          "id": "101500000",
+          "name": "Lurking Tiger",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-sangun-0.webp",
+          "description": "Đánh liên tiếp bằng Tiger’s Howl; tự tiến hoặc lùi theo khoảng cách mục tiêu.",
+          "source": "https://www.kaiden.gg/mongil/characters/sangun/"
+        },
+        {
+          "id": "101510000",
+          "name": "Fearsome Tiger",
+          "type": "Active01",
+          "image": "/catalog/skill-sangun-1.webp",
+          "description": "Nhảy áp sát từ xa và bổ xuống, gây sát thương Phong rồi kéo mục tiêu về điểm đánh.",
+          "source": "https://www.kaiden.gg/mongil/characters/sangun/"
+        },
+        {
+          "id": "101520000",
+          "name": "Cataclysm",
+          "type": "Ultimate",
+          "image": "/catalog/skill-sangun-2.webp",
+          "description": "Triệu hồi hổ gió, đẩy lùi và áp dụng Wind Affliction; mở trạng thái Wind Tiger Strike.",
+          "source": "https://www.kaiden.gg/mongil/characters/sangun/"
+        },
+        {
+          "id": "101530000",
+          "name": "Tiger Strike",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-sangun-3.webp",
+          "description": "Xuất hiện cạnh địch, xoay và ném vũ khí; kéo mục tiêu khi trúng.",
+          "source": "https://www.kaiden.gg/mongil/characters/sangun/"
+        },
+        {
+          "id": "101550000",
+          "name": "Aura of Harmony",
+          "type": "Passive",
+          "image": "/catalog/skill-sangun-4.webp",
+          "description": "Thực hiện phản công để nhận Wild Fervor.",
+          "source": "https://www.kaiden.gg/mongil/characters/sangun/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/sangun/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-jiwon",
+    "kind": "character",
+    "title": "Jiwon",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/jiwon.png",
+      "thumb": "/images/jiwon-portrait.webp",
+      "element": "Phong",
+      "role": "Support",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/jiwon-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/jiwon/",
+      "skillData": [
+        {
+          "id": "101700000",
+          "name": "Strings on the Wind",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-jiwon-0.webp",
+          "description": "Đánh bằng âm phù hệ Phong; hồi HP cho đội theo HP tối đa của Jiwon.",
+          "source": "https://www.kaiden.gg/mongil/characters/jiwon/"
+        },
+        {
+          "id": "101710000",
+          "name": "Sonic Wave",
+          "type": "Active01",
+          "image": "/catalog/skill-jiwon-1.webp",
+          "description": "Tạo sóng âm quanh người, gom địch về phía trước và hất tung.",
+          "source": "https://www.kaiden.gg/mongil/characters/jiwon/"
+        },
+        {
+          "id": "101720000",
+          "name": "Eternal Melody",
+          "type": "Ultimate",
+          "image": "/catalog/skill-jiwon-2.webp",
+          "description": "Lan tỏa giai điệu gây sát thương Phong và áp dụng Wind Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/jiwon/"
+        },
+        {
+          "id": "101730000",
+          "name": "Let Me Sing You A Song",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-jiwon-3.webp",
+          "description": "Bắn âm phù. Khi đổi ra, cấp Divine Harmony cho đội theo số nhịp Melody.",
+          "source": "https://www.kaiden.gg/mongil/characters/jiwon/"
+        },
+        {
+          "id": "101750000",
+          "name": "Melodic Blessings",
+          "type": "Passive",
+          "image": "/catalog/skill-jiwon-4.webp",
+          "description": "Tích Melody khi tấn công; các mốc 3/6/9/12 quyết định hiệu ứng Divine Harmony khi đổi người.",
+          "source": "https://www.kaiden.gg/mongil/characters/jiwon/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/jiwon/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-gabi",
+    "kind": "character",
+    "title": "Gabi",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/gabi.png",
+      "thumb": "/images/gabi-portrait.webp",
+      "element": "Thổ",
+      "role": "Fighter",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/gabi-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/gabi/",
+      "skillData": [
+        {
+          "id": "101800000",
+          "name": "Dokkaebi Bat",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-gabi-0.webp",
+          "description": "Đánh bằng chày và tạo chấn động Thổ. Đủ ba Spiritual Power có thể giữ đánh thường để tung Crushing Blow.",
+          "source": "https://www.kaiden.gg/mongil/characters/gabi/"
+        },
+        {
+          "id": "101810000",
+          "name": "Dokkaebi Technique: Create Gold!",
+          "type": "Active01",
+          "image": "/catalog/skill-gabi-1.webp",
+          "description": "Nhảy tới mục tiêu và nện đất, gây sát thương Thổ trong vùng đá trồi.",
+          "source": "https://www.kaiden.gg/mongil/characters/gabi/"
+        },
+        {
+          "id": "101820000",
+          "name": "Dokkaebi's Domain",
+          "type": "Ultimate",
+          "image": "/catalog/skill-gabi-2.webp",
+          "description": "Triệu hồi tượng hộ vệ gây hóa đá, Earth Affliction và tăng sát thương Thổ cùng DEF cho đội.",
+          "source": "https://www.kaiden.gg/mongil/characters/gabi/"
+        },
+        {
+          "id": "101830000",
+          "name": "Hoorah!",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-gabi-3.webp",
+          "description": "Nện đất gần địch và nhận Slugger’s Will.",
+          "source": "https://www.kaiden.gg/mongil/characters/gabi/"
+        },
+        {
+          "id": "101850000",
+          "name": "Dokkaebi Power",
+          "type": "Passive",
+          "image": "/catalog/skill-gabi-4.webp",
+          "description": "Đòn thường thứ tư tích Spiritual Power và có thể tạo đá; phá đá giúp hóa đá địch và tích thêm năng lượng.",
+          "source": "https://www.kaiden.gg/mongil/characters/gabi/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/gabi/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-daisy",
+    "kind": "character",
+    "title": "Daisy",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/daisy.png",
+      "thumb": "/images/daisy-portrait.webp",
+      "element": "Thổ",
+      "role": "Support",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/daisy-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/daisy/",
+      "skillData": [
+        {
+          "id": "101200000",
+          "name": "Go, Mr. Seeds!",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-daisy-0.webp",
+          "description": "Phóng hạt giống gây sát thương Thổ.",
+          "source": "https://www.kaiden.gg/mongil/characters/daisy/"
+        },
+        {
+          "id": "101210000",
+          "name": "This Is My Flower Garden!",
+          "type": "Active01",
+          "image": "/catalog/skill-daisy-1.webp",
+          "description": "Tạo vườn hoa hồi HP theo thời gian cho đồng đội; làm chậm và áp dụng Earth Affliction lên địch trong vùng.",
+          "source": "https://www.kaiden.gg/mongil/characters/daisy/"
+        },
+        {
+          "id": "101220000",
+          "name": "Help Us, Mr. Flower!",
+          "type": "Ultimate",
+          "image": "/catalog/skill-daisy-2.webp",
+          "description": "Gọi sức mạnh Mr. Flower gây sát thương Thổ và hồi HP toàn đội; tái kích hoạt để đánh và hồi thêm.",
+          "source": "https://www.kaiden.gg/mongil/characters/daisy/"
+        },
+        {
+          "id": "101230000",
+          "name": "Fly, Flowers!",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-daisy-3.webp",
+          "description": "Phóng năm bông hoa; hỗ trợ hồi HP theo thời gian khi đồng đội xuống ngưỡng HP.",
+          "source": "https://www.kaiden.gg/mongil/characters/daisy/"
+        },
+        {
+          "id": "101250000",
+          "name": "Mr. Flower's Aid",
+          "type": "Passive",
+          "image": "/catalog/skill-daisy-4.webp",
+          "description": "Tăng kháng Thổ cho toàn đội.",
+          "source": "https://www.kaiden.gg/mongil/characters/daisy/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/daisy/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-penny",
+    "kind": "character",
+    "title": "Penny",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/penny.png",
+      "thumb": "/images/penny-portrait.webp",
+      "element": "Lôi",
+      "role": "Fighter",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/penny-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/penny/",
+      "skillData": [
+        {
+          "id": "100700000",
+          "name": "Titanium Bow",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-penny-0.webp",
+          "description": "Bắn cung hệ Lôi. Tiêu Coin bằng đòn tích lực để hồi thể lực và cường hóa kỹ năng kế tiếp.",
+          "source": "https://www.kaiden.gg/mongil/characters/penny/"
+        },
+        {
+          "id": "100710000",
+          "name": "Electric Overload",
+          "type": "Active01",
+          "image": "/catalog/skill-penny-1.webp",
+          "description": "Lùi lại và bắn loạt tên. Khi có Coin, kỹ năng tiêu Coin để tung đòn cường hóa.",
+          "source": "https://www.kaiden.gg/mongil/characters/penny/"
+        },
+        {
+          "id": "100720000",
+          "name": "Thunderstorm Shot",
+          "type": "Ultimate",
+          "image": "/catalog/skill-penny-2.webp",
+          "description": "Bắn tên năng lượng xuyên mục tiêu, tạo vụ nổ và áp dụng Lightning Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/penny/"
+        },
+        {
+          "id": "100730000",
+          "name": "Tempest Arrow",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-penny-3.webp",
+          "description": "Bắn mũi tên lên không rồi phân tách thành loạt tên rơi xuống địch.",
+          "source": "https://www.kaiden.gg/mongil/characters/penny/"
+        },
+        {
+          "id": "100750000",
+          "name": "Electric Charge",
+          "type": "Passive",
+          "image": "/catalog/skill-penny-4.webp",
+          "description": "Chuyển một phần tăng sát thương Lôi thành tỉ lệ chí mạng; đòn thường thứ ba tạo Coin.",
+          "source": "https://www.kaiden.gg/mongil/characters/penny/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/penny/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-esther",
+    "kind": "character",
+    "title": "Esther",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/esther.png",
+      "thumb": "/images/esther-portrait.webp",
+      "element": "Phong",
+      "role": "Assassin",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/esther-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/esther/",
+      "skillData": [
+        {
+          "id": "103300000",
+          "name": "Maid's Double Life",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-esther-0.webp",
+          "description": "Đánh chổi rồi rút kiếm ẩn. Đứng trong Dust Cloud để cường hóa đòn thường thành chuỗi chém Phong.",
+          "source": "https://www.kaiden.gg/mongil/characters/esther/"
+        },
+        {
+          "id": "103310000",
+          "name": "Housekeeping!",
+          "type": "Active01",
+          "image": "/catalog/skill-esther-1.webp",
+          "description": "Tạo Dust Cloud, nhận Sharpness; gây Confusion, cường hóa đòn thường và giảm sát thương nhận theo điều kiện.",
+          "source": "https://www.kaiden.gg/mongil/characters/esther/"
+        },
+        {
+          "id": "103320000",
+          "name": "The Maid & Clover Inn's Peacekeeper",
+          "type": "Ultimate",
+          "image": "/catalog/skill-esther-2.webp",
+          "description": "Chém nhanh xuyên các địch phía trước, gây sát thương Phong và Wind Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/esther/"
+        },
+        {
+          "id": "103330000",
+          "name": "Taking Out the Trash",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-esther-3.webp",
+          "description": "Tạo lốc hút và hất tung; kỹ năng hỗ trợ cho phép phục kích khi đồng đội đánh trúng.",
+          "source": "https://www.kaiden.gg/mongil/characters/esther/"
+        },
+        {
+          "id": "103350000",
+          "name": "Maid's Double Life",
+          "type": "Passive",
+          "image": "/catalog/skill-esther-4.webp",
+          "description": "Trong Dust Cloud được tăng ATK; một số đòn cường hóa tiêu Sharpness để tăng sát thương.",
+          "source": "https://www.kaiden.gg/mongil/characters/esther/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/esther/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-flare",
+    "kind": "character",
+    "title": "Flare",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/flare.png",
+      "thumb": "/images/flare-portrait.webp",
+      "element": "Hỏa",
+      "role": "Destroyer",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/flare-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/flare/",
+      "skillData": [
+        {
+          "id": "102400000",
+          "name": "Fire Blast",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-flare-0.webp",
+          "description": "Phóng cầu lửa vào mục tiêu.",
+          "source": "https://www.kaiden.gg/mongil/characters/flare/"
+        },
+        {
+          "id": "102410000",
+          "name": "Dragon's Breath",
+          "type": "Active01",
+          "image": "/catalog/skill-flare-1.webp",
+          "description": "Gọi rồng lửa tại vị trí địch; rồng phun hơi thở gây sát thương Hỏa.",
+          "source": "https://www.kaiden.gg/mongil/characters/flare/"
+        },
+        {
+          "id": "102420000",
+          "name": "Dragon Storm",
+          "type": "Ultimate",
+          "image": "/catalog/skill-flare-2.webp",
+          "description": "Rồng quét phía trước, hất tung và áp dụng Fire Affliction; mở trạng thái Dragon’s Ambush.",
+          "source": "https://www.kaiden.gg/mongil/characters/flare/"
+        },
+        {
+          "id": "102430000",
+          "name": "Wings of Fire",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-flare-3.webp",
+          "description": "Tung cánh rồng và cầu lửa truy đuổi; khi đổi ra có thể gọi rồng bắn cầu lửa xuyên địch.",
+          "source": "https://www.kaiden.gg/mongil/characters/flare/"
+        },
+        {
+          "id": "102450000",
+          "name": "Fire Zone",
+          "type": "Passive",
+          "image": "/catalog/skill-flare-4.webp",
+          "description": "Tạo Blaze Zone bằng đòn đánh; đứng trong vùng để nhận hiệu ứng tăng sát thương Hỏa.",
+          "source": "https://www.kaiden.gg/mongil/characters/flare/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/flare/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-reina",
+    "kind": "character",
+    "title": "Reina",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/reina.png",
+      "thumb": "/images/reina-portrait.webp",
+      "element": "Lôi",
+      "role": "Destroyer",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/reina-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/reina/",
+      "skillData": [
+        {
+          "id": "103200000",
+          "name": "Spear of Retribution",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-reina-0.webp",
+          "description": "Đâm và biến đổi vũ khí hệ Lôi; tích Lightning Energy, giữ nút để tiêu năng lượng dùng Variant Attack.",
+          "source": "https://www.kaiden.gg/mongil/characters/reina/"
+        },
+        {
+          "id": "103210000",
+          "name": "Form 1 - Thunderstorm",
+          "type": "Active01",
+          "image": "/catalog/skill-reina-1.webp",
+          "description": "Tung năm đòn đâm rồi kết thúc bằng cú đâm mạnh; đòn cuối trúng giúp tích Lightning Energy.",
+          "source": "https://www.kaiden.gg/mongil/characters/reina/"
+        },
+        {
+          "id": "103220000",
+          "name": "Secret Technique - Radiant Dragon",
+          "type": "Ultimate",
+          "image": "/catalog/skill-reina-2.webp",
+          "description": "Nhảy lên ném giáo, tiếp đất đánh thêm, tích năng lượng và áp dụng Lightning Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/reina/"
+        },
+        {
+          "id": "103230000",
+          "name": "Celestial Lightning Spear",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-reina-3.webp",
+          "description": "Lao đâm rồi kích nổ năng lượng Lôi; có đòn đổi ra gây Lightning Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/reina/"
+        },
+        {
+          "id": "103250000",
+          "name": "Superconductive Body",
+          "type": "Passive",
+          "image": "/catalog/skill-reina-4.webp",
+          "description": "Neutralization DMG tăng theo HP tối đa; các đòn và kỹ năng phù hợp tích Lightning Energy.",
+          "source": "https://www.kaiden.gg/mongil/characters/reina/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/reina/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-mina",
+    "kind": "character",
+    "title": "Mina",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/mina.png",
+      "thumb": "/images/mina-portrait.webp",
+      "element": "Hỏa",
+      "role": "Fighter",
+      "rarity": "5",
+      "body": "Nhân vật Hỏa 5 sao, hệ Fighter. Foxfire Clone gây sát thương Hỏa và triệu hồi phân thân chiến đấu cùng Mina.",
+      "source": "https://ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=6704",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/mina-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/mina/",
+      "skillData": [
+        {
+          "id": "100500000",
+          "name": "Foxfire Orb",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-mina-0.webp",
+          "description": "Bắn cầu lửa; đòn kết thúc tích Essence. Giữ đánh thường để tiêu Essence và dùng Luminous Rush.",
+          "source": "https://www.kaiden.gg/mongil/characters/mina/"
+        },
+        {
+          "id": "100510000",
+          "name": "Foxfire Blast",
+          "type": "Active01",
+          "image": "/catalog/skill-mina-1.webp",
+          "description": "Ném cầu lửa cường hóa, hút mục tiêu xung quanh rồi phát nổ; nhận Essence.",
+          "source": "https://www.kaiden.gg/mongil/characters/mina/"
+        },
+        {
+          "id": "100520000",
+          "name": "Foxfire Clone",
+          "type": "Ultimate",
+          "image": "/catalog/skill-mina-2.webp",
+          "description": "Triệu hồi phân thân mô phỏng kỹ năng, gây sát thương Hỏa và áp dụng Fire Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/mina/"
+        },
+        {
+          "id": "100530000",
+          "name": "Sparkling Flourish",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-mina-3.webp",
+          "description": "Xuất hiện cạnh mục tiêu, tạo xoáy hút địch rồi phát nổ; tích Essence.",
+          "source": "https://www.kaiden.gg/mongil/characters/mina/"
+        },
+        {
+          "id": "100550000",
+          "name": "Essence of Fire",
+          "type": "Passive",
+          "image": "/catalog/skill-mina-4.webp",
+          "description": "Một số đòn đánh tích Essence và gây Charm. Giữ đánh thường để sử dụng lượng Essence đã tích.",
+          "source": "https://www.kaiden.gg/mongil/characters/mina/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/mina/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-verna",
+    "kind": "character",
+    "title": "Verna",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/verna.png",
+      "thumb": "/images/verna-portrait.webp",
+      "element": "Hỏa",
+      "role": "Fighter",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/verna-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/verna/",
+      "skillData": [
+        {
+          "id": "100100000",
+          "name": "Sword of Justice",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-verna-0.webp",
+          "description": "Chém liên tục gây sát thương vật lý; đòn kết thúc đẩy lùi mục tiêu.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna/"
+        },
+        {
+          "id": "100110000",
+          "name": "Boomerang Sword",
+          "type": "Active01",
+          "image": "/catalog/skill-verna-1.webp",
+          "description": "Ném kiếm kéo địch về; kiếm quay lại tạo đòn hất tung.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna/"
+        },
+        {
+          "id": "100120000",
+          "name": "Flame Cutter",
+          "type": "Ultimate",
+          "image": "/catalog/skill-verna-2.webp",
+          "description": "Tụ Hỏa vào kiếm rồi chém mạnh, đẩy lùi và áp dụng Fire Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna/"
+        },
+        {
+          "id": "100130000",
+          "name": "Sword Smash",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-verna-3.webp",
+          "description": "Xuất hiện cạnh địch và tung cú chém lộn vòng hệ Hỏa.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna/"
+        },
+        {
+          "id": "100150000",
+          "name": "Fiery Spirit",
+          "type": "Passive",
+          "image": "/catalog/skill-verna-4.webp",
+          "description": "Các kỹ năng và đòn phản công phù hợp chuyển sát thương sang Hỏa, bổ sung đòn đánh thường trong thời gian hiệu lực.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/verna/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-cloud",
+    "kind": "character",
+    "title": "Cloud",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/cloud.png",
+      "thumb": "/images/cloud-portrait.webp",
+      "element": "Băng",
+      "role": "Destroyer",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/cloud-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/cloud/",
+      "skillData": [
+        {
+          "id": "100200000",
+          "name": "Frosted Arrows",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-cloud-0.webp",
+          "description": "Bắn tên vật lý; giữ đánh thường khi có Ice Crystal để dùng Rapid-Fire hệ Băng.",
+          "source": "https://www.kaiden.gg/mongil/characters/cloud/"
+        },
+        {
+          "id": "100210000",
+          "name": "Piercing Ice",
+          "type": "Active01",
+          "image": "/catalog/skill-cloud-1.webp",
+          "description": "Tên băng xuyên địch; thả nút đúng lúc để nhận Ice Crystal theo mục tiêu trúng, tối đa năm.",
+          "source": "https://www.kaiden.gg/mongil/characters/cloud/"
+        },
+        {
+          "id": "100220000",
+          "name": "Frost Burst",
+          "type": "Ultimate",
+          "image": "/catalog/skill-cloud-2.webp",
+          "description": "Bắn tên băng xuyên địch, áp dụng Ice Affliction và tạo Glacier Zone gây sát thương dọc đường.",
+          "source": "https://www.kaiden.gg/mongil/characters/cloud/"
+        },
+        {
+          "id": "100230000",
+          "name": "Frost Wave",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-cloud-3.webp",
+          "description": "Xuất hiện cạnh đồng đội và bắn loạt tên Băng xuyên mục tiêu.",
+          "source": "https://www.kaiden.gg/mongil/characters/cloud/"
+        },
+        {
+          "id": "100250000",
+          "name": "Crystal Bullets",
+          "type": "Passive",
+          "image": "/catalog/skill-cloud-4.webp",
+          "description": "Tự nhận Ice Crystal theo chu kỳ; giữ đánh thường để tiêu tinh thể.",
+          "source": "https://www.kaiden.gg/mongil/characters/cloud/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/cloud/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-ophelia",
+    "kind": "character",
+    "title": "Ophelia",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/ophelia.png",
+      "thumb": "/images/ophelia-portrait.webp",
+      "element": "Băng",
+      "role": "Fighter",
+      "rarity": "5",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/ophelia-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/ophelia/",
+      "skillData": [
+        {
+          "id": "103100000",
+          "name": "Achouffe Swordsmanship",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-ophelia-0.webp",
+          "description": "Đâm và chém gây sát thương vật lý; đòn kết thúc đẩy mục tiêu. Amethyst Witch tăng sát thương chí mạng.",
+          "source": "https://www.kaiden.gg/mongil/characters/ophelia/"
+        },
+        {
+          "id": "103110000",
+          "name": "Flowing Frost",
+          "type": "Active01",
+          "image": "/catalog/skill-ophelia-1.webp",
+          "description": "Chém hệ Băng; có thể dùng thêm lần trong khoảng cho phép nhưng hồi chiêu kéo dài.",
+          "source": "https://www.kaiden.gg/mongil/characters/ophelia/"
+        },
+        {
+          "id": "103120000",
+          "name": "Judgment",
+          "type": "Ultimate",
+          "image": "/catalog/skill-ophelia-2.webp",
+          "description": "Hất tung rồi chém xuống bằng kiếm băng; áp dụng Ice Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/ophelia/"
+        },
+        {
+          "id": "103130000",
+          "name": "Crystalline Leap",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-ophelia-3.webp",
+          "description": "Nhảy chém mục tiêu và tung mảnh băng tại điểm va chạm.",
+          "source": "https://www.kaiden.gg/mongil/characters/ophelia/"
+        },
+        {
+          "id": "103150000",
+          "name": "Amethyst Witch",
+          "type": "Passive",
+          "image": "/catalog/skill-ophelia-4.webp",
+          "description": "Dùng kỹ năng đặc biệt hoặc kỹ năng đổi người để nhận Amethyst Witch.",
+          "source": "https://www.kaiden.gg/mongil/characters/ophelia/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/ophelia/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-francis",
+    "kind": "character",
+    "title": "Francis",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/francis.png",
+      "thumb": "/images/francis-portrait.webp",
+      "element": "Thổ",
+      "role": "Support",
+      "rarity": "4",
+      "body": "",
+      "source": "https://stardive.netmarble.com/en",
+      "sourceType": "official",
+      "version": "Đối chiếu 26/10/2026",
+      "portrait": "/images/francis-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/francis/",
+      "skillData": [
+        {
+          "id": "100400000",
+          "name": "This Might Pinch!",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-francis-0.webp",
+          "description": "Ném ống tiêm hệ Thổ; có thể tạo Love Frenzy phát nổ khi chạm đất.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis/"
+        },
+        {
+          "id": "100410000",
+          "name": "Extra Dose",
+          "type": "Active01",
+          "image": "/catalog/skill-francis-1.webp",
+          "description": "Ném nhiều lọ thuốc gây sát thương Thổ và Earth Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis/"
+        },
+        {
+          "id": "100420000",
+          "name": "An Exciting New Trial!",
+          "type": "Ultimate",
+          "image": "/catalog/skill-francis-2.webp",
+          "description": "Nện ống tiêm khổng lồ, tạo Experimental Drug Field; đồng đội đánh trúng trong vùng có thể hồi HP.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis/"
+        },
+        {
+          "id": "100430000",
+          "name": "Outpatient Check-up",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-francis-3.webp",
+          "description": "Đánh bằng hồ sơ; khi đổi ra mở hiệu ứng chẩn đoán. Có hỗ trợ hồi máu khi đồng đội xuống ngưỡng HP.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis/"
+        },
+        {
+          "id": "100450000",
+          "name": "Preventative Care",
+          "type": "Passive",
+          "image": "/catalog/skill-francis-4.webp",
+          "description": "ATK tăng theo tăng sát thương Thổ; đánh thường có thể tạo Love Frenzy, chắc chắn khi mục tiêu có Earth Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/francis/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-mabel",
+    "kind": "character",
+    "title": "Mabel",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "image": "/images/mabel.jpg",
+      "thumb": "/images/mabel-portrait.webp",
+      "element": "Lôi",
+      "role": "Destroyer",
+      "rarity": "5",
+      "body": "Nhân vật Lôi 5 sao, hệ Destroyer. Sử dụng sách Epigram; chiêu cuối gây sát thương Lôi và hiệu ứng Lightning Affliction.",
+      "source": "https://ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=6920",
+      "sourceType": "official",
+      "version": "Thông báo ra mắt 29/07/2026",
+      "portrait": "/images/mabel-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/mabel/",
+      "skillData": [
+        {
+          "id": "103800000",
+          "name": "Sanctification, Condemnation",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-mabel-0.webp",
+          "description": "Giải phóng năng lượng Lôi; tích Epigram’s Will bằng các đòn phù hợp và dùng Judgment khi đủ tích lũy.",
+          "source": "https://www.kaiden.gg/mongil/characters/mabel/"
+        },
+        {
+          "id": "103810000",
+          "name": "Doctrine, Preach",
+          "type": "Active01",
+          "image": "/catalog/skill-mabel-1.webp",
+          "description": "Phóng năng lượng Lôi, tích Epigram’s Will; năng lượng còn lại tiếp tục đánh mục tiêu gần đó.",
+          "source": "https://www.kaiden.gg/mongil/characters/mabel/"
+        },
+        {
+          "id": "103820000",
+          "name": "Injustice, Exterminate",
+          "type": "Ultimate",
+          "image": "/catalog/skill-mabel-2.webp",
+          "description": "Triệu hồi Executioner phán xét phía trước, gây Lightning Affliction và giảm sát thương nhận khi cưỡi.",
+          "source": "https://www.kaiden.gg/mongil/characters/mabel/"
+        },
+        {
+          "id": "103830000",
+          "name": "Judgment, Punishment",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-mabel-3.webp",
+          "description": "Triệu hồi bàn tay Executioner gần địch; nhận Epigram’s Will.",
+          "source": "https://www.kaiden.gg/mongil/characters/mabel/"
+        },
+        {
+          "id": "103850000",
+          "name": "Epigram's Will",
+          "type": "Passive",
+          "image": "/catalog/skill-mabel-4.webp",
+          "description": "Một số đòn tích Epigram’s Will; ngừng nhập lệnh đúng thời điểm có thể nhận thêm tích lũy từ trang sách.",
+          "source": "https://www.kaiden.gg/mongil/characters/mabel/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/mabel/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "news-mina",
+    "kind": "news",
+    "title": "Mina — Hỏa, Fighter 5 sao",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-04-29T00:00:00.000Z",
+    "payload": {
+      "sourceType": "official",
+      "source": "https://ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=6704",
+      "version": "Thông báo 29/04/2026",
+      "body": "Netmarble giới thiệu Mina trong bản cập nhật sau ra mắt. Nhân vật sử dụng Foxfire Orb và chiêu cuối Foxfire Clone. Đây là thông tin lúc giới thiệu, không đại diện cho cân bằng hiện tại."
+    }
+  },
+  {
+    "id": "news-mabel",
+    "kind": "news",
+    "title": "Mabel — Người phán xét hệ Lôi",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-07-29T00:00:00.000Z",
+    "payload": {
+      "sourceType": "official",
+      "source": "https://ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=6920",
+      "version": "Thông báo 29/07/2026",
+      "body": "Netmarble công bố Mabel, nhân vật 5 sao hệ Destroyer. Hồ sơ mô tả vũ khí Epigram và chiêu cuối Injustice, Exterminate. Xem thông báo gốc để đọc chi tiết sự kiện thời điểm ra mắt."
+    }
+  },
+  {
+    "id": "char-isabella",
+    "kind": "character",
+    "title": "Isabella",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/isabella/",
+      "sourceType": "community",
+      "element": "Băng",
+      "role": "Destroyer",
+      "rarity": "5",
+      "thumb": "/images/isabella-portrait.webp",
+      "portrait": "/images/isabella-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/isabella/",
+      "image": "/images/isabella-portrait.webp",
+      "skillData": [
+        {
+          "id": "101900000",
+          "name": "Plasma Forge",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-isabella-0.webp",
+          "description": "Đánh bằng bộ phản xạ plasma để tích năng lượng; mốc năng lượng phù hợp giúp kích hoạt đòn gây đóng băng.",
+          "source": "https://www.kaiden.gg/mongil/characters/isabella/"
+        },
+        {
+          "id": "101910000",
+          "name": "Energy Conversion",
+          "type": "Active01",
+          "image": "/catalog/skill-isabella-1.webp",
+          "description": "Bắn đạn Băng gây đóng băng; tiêu năng lượng để tăng sát thương, dùng hết mức tối đa tăng xuyên giáp.",
+          "source": "https://www.kaiden.gg/mongil/characters/isabella/"
+        },
+        {
+          "id": "101920000",
+          "name": "Kilonova",
+          "type": "Ultimate",
+          "image": "/catalog/skill-isabella-2.webp",
+          "description": "Phóng cầu năng lượng hút địch rồi phát nổ, áp dụng Ice Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/isabella/"
+        },
+        {
+          "id": "101930000",
+          "name": "Repulsion",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-isabella-3.webp",
+          "description": "Tạo vụ nổ, lùi lại và giảm hồi chiêu kỹ năng; trạng thái Cooling Cycle hỗ trợ đánh sau khi đổi ra.",
+          "source": "https://www.kaiden.gg/mongil/characters/isabella/"
+        },
+        {
+          "id": "101950000",
+          "name": "Reactivity Test",
+          "type": "Passive",
+          "image": "/catalog/skill-isabella-4.webp",
+          "description": "Gây đóng băng giúp tăng chí mạng và ATK theo điều kiện nội tại; đổi vào sẽ xóa năng lượng chưa dùng.",
+          "source": "https://www.kaiden.gg/mongil/characters/isabella/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/isabella/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-chloe",
+    "kind": "character",
+    "title": "Chloe",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "Chloe là nhân vật Phong 5 sao, vai trò Fighter, chiến đấu bằng đấm và đá xoay. Phát hành trong đợt cập nhật 21/10/2026.",
+      "source": "https://org-ch.netmarble.com/Eng/Newsroom/Detail?bbs_code=1020&post_seq=7074",
+      "sourceType": "official",
+      "element": "Phong",
+      "role": "Fighter",
+      "rarity": "5",
+      "thumb": "/images/chloe-portrait.webp",
+      "portrait": "/images/chloe-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/chloe/",
+      "image": "/images/chloe-portrait.webp",
+      "version": "21/10/2026",
+      "skillData": [
+        {
+          "id": "102500000",
+          "name": "Light Jabs! One, two!",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-chloe-0.webp",
+          "description": "Đấm liên tiếp hệ Phong; trạng thái cường hóa bổ sung Gust và mở Hyper Punch khi giữ nút đánh.",
+          "source": "https://www.kaiden.gg/mongil/characters/chloe/"
+        },
+        {
+          "id": "102510000",
+          "name": "Infighting",
+          "type": "Active01",
+          "image": "/catalog/skill-chloe-1.webp",
+          "description": "Chuỗi ba đòn cấp High Tempo. Windmill Kick tiêu Overheat để tăng sát thương và có thể ngắt đòn đặc biệt của địch.",
+          "source": "https://www.kaiden.gg/mongil/characters/chloe/"
+        },
+        {
+          "id": "102520000",
+          "name": "Blow It All Up!",
+          "type": "Ultimate",
+          "image": "/catalog/skill-chloe-2.webp",
+          "description": "Lao vào tung cú đấm mạnh hệ Phong, nhận trạng thái It’s… Not Over Yet!.",
+          "source": "https://www.kaiden.gg/mongil/characters/chloe/"
+        },
+        {
+          "id": "102530000",
+          "name": "Substitution",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-chloe-3.webp",
+          "description": "Nhảy lên cao rồi nện xuống, hất tung mục tiêu và gây sát thương Phong.",
+          "source": "https://www.kaiden.gg/mongil/characters/chloe/"
+        },
+        {
+          "id": "102550000",
+          "name": "Overheat",
+          "type": "Passive",
+          "image": "/catalog/skill-chloe-4.webp",
+          "description": "Đánh thường tích Overheat; đòn cường hóa và Hyper Punch tích nhanh hơn.",
+          "source": "https://www.kaiden.gg/mongil/characters/chloe/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/chloe/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-brisshell",
+    "kind": "character",
+    "title": "Brisshell",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/brisshell/",
+      "sourceType": "community",
+      "element": "Thổ",
+      "role": "Assassin",
+      "rarity": "5",
+      "thumb": "/images/brisshell-portrait.webp",
+      "portrait": "/images/brisshell-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/brisshell/",
+      "image": "/images/brisshell-portrait.webp",
+      "skillData": [
+        {
+          "id": "103700000",
+          "name": "My First Friend Alfred",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-brisshell-0.webp",
+          "description": "Vung Alfred gây sát thương vật lý; Attention Overload cường hóa thành chuỗi truy kích hệ Thổ.",
+          "source": "https://www.kaiden.gg/mongil/characters/brisshell/"
+        },
+        {
+          "id": "103710000",
+          "name": "Alfred Rush",
+          "type": "Active01",
+          "image": "/catalog/skill-brisshell-1.webp",
+          "description": "Alfred lao tới cắn xé rồi bị nện xuống; gây sát thương Thổ và kéo dài Attention Overload.",
+          "source": "https://www.kaiden.gg/mongil/characters/brisshell/"
+        },
+        {
+          "id": "103720000",
+          "name": "Anxiety Burst",
+          "type": "Ultimate",
+          "image": "/catalog/skill-brisshell-2.webp",
+          "description": "Bùng nổ Alien Power quanh người, gây sát thương Thổ và Earth Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/brisshell/"
+        },
+        {
+          "id": "103730000",
+          "name": "Here I Come!",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-brisshell-3.webp",
+          "description": "Vung Alfred trên diện rộng; có biến thể cường hóa sau hỗ trợ. Đồng đội đánh thường hoặc dùng kỹ năng có thể gọi hỗ trợ.",
+          "source": "https://www.kaiden.gg/mongil/characters/brisshell/"
+        },
+        {
+          "id": "103750000",
+          "name": "Attention Overload",
+          "type": "Passive",
+          "image": "/catalog/skill-brisshell-4.webp",
+          "description": "Đổi vào hoặc dùng chiêu cuối nhận Attention Overload; đòn Alien Power đánh trúng gây giảm DEF.",
+          "source": "https://www.kaiden.gg/mongil/characters/brisshell/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/brisshell/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-verna-summer-dive",
+    "kind": "character",
+    "title": "Verna: Summer Dive!",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/",
+      "sourceType": "community",
+      "element": "Hỏa",
+      "role": "Fighter",
+      "rarity": "5",
+      "thumb": "/images/verna-summer-dive-portrait.webp",
+      "portrait": "/images/verna-summer-dive-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/",
+      "image": "/images/verna-summer-dive-portrait.webp",
+      "skillData": [
+        {
+          "id": "103900000",
+          "name": "Sword of Justice",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-verna-summer-dive-0.webp",
+          "description": "Chuỗi chém vật lý; Flaming Will cường hóa các đòn sau đòn đầu và bổ sung đòn thứ năm.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/"
+        },
+        {
+          "id": "103910000",
+          "name": "Manifestation of Will",
+          "type": "Active01",
+          "image": "/catalog/skill-verna-summer-dive-1.webp",
+          "description": "Giải phóng năng lượng Hỏa quanh người; khi có Flaming Will được cường hóa và làm mới thời gian hiệu lực.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/"
+        },
+        {
+          "id": "103920000",
+          "name": "Flame Spear",
+          "type": "Ultimate",
+          "image": "/catalog/skill-verna-summer-dive-2.webp",
+          "description": "Đâm mạnh hệ Hỏa, áp dụng Fire Affliction; Flaming Will bổ sung lưỡi lửa và được làm mới.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/"
+        },
+        {
+          "id": "103930000",
+          "name": "Sword Uppercut",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-verna-summer-dive-3.webp",
+          "description": "Tung lưỡi lửa hất lên; bấm kỹ năng đúng lúc trong biến thể cường hóa để nối sang kỹ năng đặc biệt.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/"
+        },
+        {
+          "id": "103950000",
+          "name": "Flaming Will",
+          "type": "Passive",
+          "image": "/catalog/skill-verna-summer-dive-4.webp",
+          "description": "Kỹ năng và đòn phản công phù hợp chuyển đòn đánh sang Hỏa, giảm sát thương nhận và cho phép tích Ember.",
+          "source": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/verna-summer-dive/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-francis-summer-dive",
+    "kind": "character",
+    "title": "Francis: Summer Dive!",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/",
+      "sourceType": "community",
+      "element": "Thổ",
+      "role": "Support",
+      "rarity": "5",
+      "thumb": "/images/francis-summer-dive-portrait.webp",
+      "portrait": "/images/francis-summer-dive-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/",
+      "image": "/images/francis-summer-dive-portrait.webp",
+      "skillData": [
+        {
+          "id": "104000000",
+          "name": "Refreshing Swim",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-francis-summer-dive-0.webp",
+          "description": "Bắn súng nước và ném bóng chuyền gây sát thương Thổ; có thể tạo Summer Frenzy.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/"
+        },
+        {
+          "id": "104010000",
+          "name": "Summer's Herald of Love",
+          "type": "Active01",
+          "image": "/catalog/skill-francis-summer-dive-1.webp",
+          "description": "Gây sát thương Thổ, Earth Affliction và cấp Summer On-the-Fly Diagnosis; đồng đội Thổ nhận thêm tăng sát thương.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/"
+        },
+        {
+          "id": "104020000",
+          "name": "Cool Summer Vacation",
+          "type": "Ultimate",
+          "image": "/catalog/skill-francis-summer-dive-2.webp",
+          "description": "Tấn công mạnh bằng súng nước, gây sát thương Thổ và Earth Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/"
+        },
+        {
+          "id": "104030000",
+          "name": "How to Enjoy Summer",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-francis-summer-dive-3.webp",
+          "description": "Xuất hiện cùng xô nước; bấm kỹ năng đúng thời điểm để nối kỹ năng đặc biệt, không phụ thuộc hồi chiêu hiện tại.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/"
+        },
+        {
+          "id": "104050000",
+          "name": "Preventative Care on Summer Vacation",
+          "type": "Passive",
+          "image": "/catalog/skill-francis-summer-dive-4.webp",
+          "description": "Tăng ATK theo tăng sát thương Thổ; đánh trúng có thể tạo Summer Frenzy, tùy trạng thái hỗ trợ.",
+          "source": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/francis-summer-dive/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-vivian",
+    "kind": "character",
+    "title": "Vivian",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/vivian/",
+      "sourceType": "community",
+      "element": "Hỏa",
+      "role": "Support",
+      "rarity": "5",
+      "thumb": "/images/vivian-portrait.webp",
+      "portrait": "/images/vivian-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/vivian/",
+      "image": "/images/vivian-portrait.webp",
+      "skillData": [
+        {
+          "id": "104100000",
+          "name": "Rehearsal",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-vivian-0.webp",
+          "description": "Ném lá bài và biểu diễn gây sát thương Hỏa.",
+          "source": "https://www.kaiden.gg/mongil/characters/vivian/"
+        },
+        {
+          "id": "104110000",
+          "name": "Alluring Gesture",
+          "type": "Active01",
+          "image": "/catalog/skill-vivian-1.webp",
+          "description": "Biểu diễn gây sát thương Hỏa; cấp Spectacular Stage, giảm sát thương nhận và hồi HP cho đội theo HP tối đa.",
+          "source": "https://www.kaiden.gg/mongil/characters/vivian/"
+        },
+        {
+          "id": "104120000",
+          "name": "Starring Role",
+          "type": "Ultimate",
+          "image": "/catalog/skill-vivian-2.webp",
+          "description": "Biểu diễn trên sân khấu, gây sát thương Hỏa và áp dụng Fire Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/vivian/"
+        },
+        {
+          "id": "104130000",
+          "name": "Iiiiiit's Showtime!",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-vivian-3.webp",
+          "description": "Xuất hiện với lá bài và kéo mục tiêu; có hỗ trợ đánh khi đồng đội tấn công trúng.",
+          "source": "https://www.kaiden.gg/mongil/characters/vivian/"
+        },
+        {
+          "id": "104150000",
+          "name": "Seductive Tail",
+          "type": "Passive",
+          "image": "/catalog/skill-vivian-4.webp",
+          "description": "Kéo dài Fire Affliction; hỗ trợ sát thương Hỏa cho đồng đội cận chiến và tăng ATK theo điều kiện chuyển đổi.",
+          "source": "https://www.kaiden.gg/mongil/characters/vivian/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/vivian/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-benjamin",
+    "kind": "character",
+    "title": "Benjamin",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/benjamin/",
+      "sourceType": "community",
+      "element": "Lôi",
+      "role": "Assassin",
+      "rarity": "4",
+      "thumb": "/images/benjamin-portrait.webp",
+      "portrait": "/images/benjamin-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/benjamin/",
+      "image": "/images/benjamin-portrait.webp",
+      "skillData": [
+        {
+          "id": "102100000",
+          "name": "Sardonic Swordplay",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-benjamin-0.webp",
+          "description": "Chuỗi song kiếm vật lý; đòn thứ ba chuyển nguyên tố đòn đánh sang Lôi trong thời gian hiệu lực.",
+          "source": "https://www.kaiden.gg/mongil/characters/benjamin/"
+        },
+        {
+          "id": "102110000",
+          "name": "Nightmare Mark",
+          "type": "Active01",
+          "image": "/catalog/skill-benjamin-1.webp",
+          "description": "Dùng phân thân chém và hất tung; Nightmare Sprint cường hóa thành đòn lao cùng phân thân.",
+          "source": "https://www.kaiden.gg/mongil/characters/benjamin/"
+        },
+        {
+          "id": "102120000",
+          "name": "Dimensional Annihilation Slash",
+          "type": "Ultimate",
+          "image": "/catalog/skill-benjamin-2.webp",
+          "description": "Chém xuyên không gian, gây sát thương Lôi, hất tung và áp dụng Lightning Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/benjamin/"
+        },
+        {
+          "id": "102130000",
+          "name": "Raging Flurry",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-benjamin-3.webp",
+          "description": "Lao chém liên tục hệ Lôi; có đòn đổi ra và hỗ trợ gắn với Nightmare Sprint.",
+          "source": "https://www.kaiden.gg/mongil/characters/benjamin/"
+        },
+        {
+          "id": "102150000",
+          "name": "Sleepless Torrent",
+          "type": "Passive",
+          "image": "/catalog/skill-benjamin-4.webp",
+          "description": "Không nhận sát thương trong ba giây khi sử dụng kỹ năng đặc biệt để nhận Nightmare Sprint.",
+          "source": "https://www.kaiden.gg/mongil/characters/benjamin/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/benjamin/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-sera",
+    "kind": "character",
+    "title": "Sera",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/sera/",
+      "sourceType": "community",
+      "element": "Băng",
+      "role": "Fighter",
+      "rarity": "4",
+      "thumb": "/images/sera-portrait.webp",
+      "portrait": "/images/sera-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/sera/",
+      "image": "/images/sera-portrait.webp",
+      "skillData": [
+        {
+          "id": "102900000",
+          "name": "Arkarion: Bound",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-sera-0.webp",
+          "description": "Vung Arkarion gây sát thương vật lý và tích Laxima Energy.",
+          "source": "https://www.kaiden.gg/mongil/characters/sera/"
+        },
+        {
+          "id": "102910000",
+          "name": "Laxima: Sealed",
+          "type": "Active01",
+          "image": "/catalog/skill-sera-1.webp",
+          "description": "Xoay Laxima hút địch, gây sát thương Băng và tích Arkarion Energy; thả nút để hất tung.",
+          "source": "https://www.kaiden.gg/mongil/characters/sera/"
+        },
+        {
+          "id": "102920000",
+          "name": "Arkarion Laxima: Unleashed",
+          "type": "Ultimate",
+          "image": "/catalog/skill-sera-2.webp",
+          "description": "Giải phóng sức mạnh gây sát thương Băng, Ice Affliction và đóng băng; mở Arkarion Unleashed.",
+          "source": "https://www.kaiden.gg/mongil/characters/sera/"
+        },
+        {
+          "id": "102930000",
+          "name": "Arkarion: Restricted",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-sera-3.webp",
+          "description": "Áp sát và vung Arkarion gây sát thương vật lý, tích Laxima Energy.",
+          "source": "https://www.kaiden.gg/mongil/characters/sera/"
+        },
+        {
+          "id": "102950000",
+          "name": "Lock Shard",
+          "type": "Passive",
+          "image": "/catalog/skill-sera-4.webp",
+          "description": "Tiêu năng lượng để thêm đòn Băng; các trạng thái giải phóng quyết định tăng sát thương kỹ năng và chí mạng.",
+          "source": "https://www.kaiden.gg/mongil/characters/sera/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/sera/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-ellie",
+    "kind": "character",
+    "title": "Ellie",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/ellie/",
+      "sourceType": "community",
+      "element": "Thổ",
+      "role": "Destroyer",
+      "rarity": "4",
+      "thumb": "/images/ellie-portrait.webp",
+      "portrait": "/images/ellie-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/ellie/",
+      "image": "/images/ellie-portrait.webp",
+      "skillData": [
+        {
+          "id": "103000000",
+          "name": "Back Off!",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-ellie-0.webp",
+          "description": "Đánh bằng gối và đồ ăn hệ Thổ; đủ ba Sugar Charge có thể giữ nút dùng Pillow Pow!.",
+          "source": "https://www.kaiden.gg/mongil/characters/ellie/"
+        },
+        {
+          "id": "103010000",
+          "name": "Big Donut",
+          "type": "Active01",
+          "image": "/catalog/skill-ellie-1.webp",
+          "description": "Triệu hồi bánh donut lăn và đánh nhiều lần; sau đó nổ gây thêm sát thương Thổ.",
+          "source": "https://www.kaiden.gg/mongil/characters/ellie/"
+        },
+        {
+          "id": "103020000",
+          "name": "Ultimate Sweetness",
+          "type": "Ultimate",
+          "image": "/catalog/skill-ellie-2.webp",
+          "description": "Thả bánh kem khổng lồ, nổ gây Earth Affliction và rải Snacks.",
+          "source": "https://www.kaiden.gg/mongil/characters/ellie/"
+        },
+        {
+          "id": "103030000",
+          "name": "Snack Time",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-ellie-3.webp",
+          "description": "Gây sát thương Thổ quanh người và rải Snacks từ gối.",
+          "source": "https://www.kaiden.gg/mongil/characters/ellie/"
+        },
+        {
+          "id": "103050000",
+          "name": "Sugar Charge",
+          "type": "Passive",
+          "image": "/catalog/skill-ellie-4.webp",
+          "description": "Một số đòn tạo Snacks; nhặt Snacks hồi một ít HP, tăng Neutralization DMG và tích Sugar Charge cho Ellie.",
+          "source": "https://www.kaiden.gg/mongil/characters/ellie/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/ellie/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-bonnie",
+    "kind": "character",
+    "title": "Bonnie",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/bonnie/",
+      "sourceType": "community",
+      "element": "Phong",
+      "role": "Support",
+      "rarity": "4",
+      "thumb": "/images/bonnie-portrait.webp",
+      "portrait": "/images/bonnie-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/bonnie/",
+      "image": "/images/bonnie-portrait.webp",
+      "skillData": [
+        {
+          "id": "103400000",
+          "name": "Trumpet Part",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-bonnie-0.webp",
+          "description": "Thổi kèn Trumpet gây sát thương Phong.",
+          "source": "https://www.kaiden.gg/mongil/characters/bonnie/"
+        },
+        {
+          "id": "103410000",
+          "name": "Tuba Part",
+          "type": "Active01",
+          "image": "/catalog/skill-bonnie-1.webp",
+          "description": "Tiến lên biểu diễn Tuba; đoạn kết gây Resonance, phát nổ sau thời gian hoặc khi các mục tiêu ở gần nhau.",
+          "source": "https://www.kaiden.gg/mongil/characters/bonnie/"
+        },
+        {
+          "id": "103420000",
+          "name": "Finale",
+          "type": "Ultimate",
+          "image": "/catalog/skill-bonnie-2.webp",
+          "description": "Mở hòa tấu gây sát thương Phong và Wind Affliction; tích Musical Scores, có thể bấm lại để kết thúc.",
+          "source": "https://www.kaiden.gg/mongil/characters/bonnie/"
+        },
+        {
+          "id": "103430000",
+          "name": "Intro",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-bonnie-3.webp",
+          "description": "Xuất hiện và thổi Trumpet; khi đổi ra, tiêu Musical Scores để tiếp tục chơi French Horn.",
+          "source": "https://www.kaiden.gg/mongil/characters/bonnie/"
+        },
+        {
+          "id": "103450000",
+          "name": "Fantasia",
+          "type": "Passive",
+          "image": "/catalog/skill-bonnie-4.webp",
+          "description": "Đổi nhạc cụ khi chiến đấu giúp tăng chí mạng; đánh chí mạng có thể nhận Musical Score.",
+          "source": "https://www.kaiden.gg/mongil/characters/bonnie/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/bonnie/",
+      "skillUpdated": "2026-10-26"
+    }
+  },
+  {
+    "id": "char-angel",
+    "kind": "character",
+    "title": "Angel",
+    "status": "published",
+    "author": "official",
+    "updated": "2026-10-26",
+    "payload": {
+      "body": "",
+      "source": "https://www.kaiden.gg/mongil/characters/angel/",
+      "sourceType": "community",
+      "element": "Hỏa",
+      "role": "Assassin",
+      "rarity": "4",
+      "thumb": "/images/angel-portrait.webp",
+      "portrait": "/images/angel-portrait.webp",
+      "metadataSource": "https://www.kaiden.gg/mongil/characters/angel/",
+      "image": "/images/angel-portrait.webp",
+      "skillData": [
+        {
+          "id": "103500000",
+          "name": "Rapid Fire",
+          "type": "Normal_ATK",
+          "image": "/catalog/skill-angel-0.webp",
+          "description": "Bắn nhanh bằng hai súng hệ Hỏa; đòn thứ tư dùng Magnum Round xuyên mục tiêu.",
+          "source": "https://www.kaiden.gg/mongil/characters/angel/"
+        },
+        {
+          "id": "103510000",
+          "name": "Bullet Ballet",
+          "type": "Active01",
+          "image": "/catalog/skill-angel-1.webp",
+          "description": "Gây sát thương Hỏa quanh người và giảm sát thương nhận trong thời gian kỹ năng.",
+          "source": "https://www.kaiden.gg/mongil/characters/angel/"
+        },
+        {
+          "id": "103520000",
+          "name": "Showdown",
+          "type": "Ultimate",
+          "image": "/catalog/skill-angel-2.webp",
+          "description": "Bắn súng gây sát thương Hỏa và Fire Affliction.",
+          "source": "https://www.kaiden.gg/mongil/characters/angel/"
+        },
+        {
+          "id": "103530000",
+          "name": "Blitz Shot",
+          "type": "Skill_Tag",
+          "image": "/catalog/skill-angel-3.webp",
+          "description": "Lao tới vừa bắn; đổi vào sau hỗ trợ tăng sát thương Hỏa. Đồng đội đánh mục tiêu Wanted có thể gọi hỗ trợ.",
+          "source": "https://www.kaiden.gg/mongil/characters/angel/"
+        },
+        {
+          "id": "103550000",
+          "name": "Bounty Hunter",
+          "type": "Passive",
+          "image": "/catalog/skill-angel-4.webp",
+          "description": "Mục tiêu gần giúp tăng sát thương đòn thường; đánh dấu Wanted lên địch để kích hoạt kỹ năng hỗ trợ.",
+          "source": "https://www.kaiden.gg/mongil/characters/angel/"
+        }
+      ],
+      "skillSource": "https://www.kaiden.gg/mongil/characters/angel/",
+      "skillUpdated": "2026-10-26"
+    }
+  }
+]

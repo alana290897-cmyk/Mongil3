@@ -1,0 +1,6439 @@
+[
+  {
+    "id": "set-11500",
+    "kind": "set",
+    "title": "Abyss",
+    "image": "/catalog/set-11500.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/abyss/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "WIND",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Phong DMG +10% trong 5s khi dùng a kỹ năng đặc biệt"
+      },
+      {
+        "count": 4,
+        "text": "Phong DMG +10% trong 5s khi đánh trúng đòn chí mạng"
+      }
+    ]
+  },
+  {
+    "id": "set-12400",
+    "kind": "set",
+    "title": "Ancient Stone",
+    "image": "/catalog/set-12400.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ancient-stone/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Phong Attack Neutralization DMG +7.5%"
+      }
+    ]
+  },
+  {
+    "id": "set-11400",
+    "kind": "set",
+    "title": "Arbiter",
+    "image": "/catalog/set-11400.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/arbiter/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng DMG +10% trong 5s khi dùng a kỹ năng đổi nhân vật"
+      },
+      {
+        "count": 4,
+        "text": "Băng DMG +10% khi attacking an enemy with Băng Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-13500",
+    "kind": "set",
+    "title": "Blossoms in Full Bloom",
+    "image": "/catalog/set-13500.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/blossoms-in-full-bloom/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng DMG +7.5% trong 5s khi dùng a kỹ năng đặc biệt"
+      }
+    ]
+  },
+  {
+    "id": "set-12300",
+    "kind": "set",
+    "title": "Devourer of the Abyss",
+    "image": "/catalog/set-12300.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-of-the-abyss/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng Attack Neutralization DMG +7.5%"
+      }
+    ]
+  },
+  {
+    "id": "set-12900",
+    "kind": "set",
+    "title": "Forest Tyrant",
+    "image": "/catalog/set-12900.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/forest-tyrant/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng DMG +7.5% trong 3s khi dùng a đòn đánh thường"
+      },
+      {
+        "count": 4,
+        "text": "Crit Rate +5% trong 5s khi attacking an enemy with Băng Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-13400",
+    "kind": "set",
+    "title": "Fox Youkai's Fighting Spirit",
+    "image": "/catalog/set-13400.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/fox-youkais-fighting-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Lôi RES -6% trong 5s khi dùng a Tag-out Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-13200",
+    "kind": "set",
+    "title": "Gourmand Level",
+    "image": "/catalog/set-13200.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmand-level/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "WIND",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Target's Phong RES -6% trong 5s khi đánh trúng a kỹ năng đặc biệt"
+      },
+      {
+        "count": 4,
+        "text": "Cả đội' Crit Rate +6% trong 5s khi dùng a Tag-out Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-12200",
+    "kind": "set",
+    "title": "Gourmand's Grand Banquet",
+    "image": "/catalog/set-12200.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmands-grand-banquet/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Target's Hỏa RES -6% trong 5s khi đánh trúng a Tag-out Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-11900",
+    "kind": "set",
+    "title": "Hahnul's Roar",
+    "image": "/catalog/set-11900.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/hahnuls-roar/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Hỏa DMG +10% trong 5s khi dùng an chiêu cuối"
+      },
+      {
+        "count": 4,
+        "text": "Crit DMG +10% khi attacking an enemy with Hỏa Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-12500",
+    "kind": "set",
+    "title": "Heart of Eternal Frost",
+    "image": "/catalog/set-12500.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/heart-of-eternal-frost/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "LIGHTNING",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Lôi attack Stagger DMG +7.5%"
+      }
+    ]
+  },
+  {
+    "id": "set-14100",
+    "kind": "set",
+    "title": "Merciless Destroyer",
+    "image": "/catalog/set-14100.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/merciless-destroyer/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "[2-Set] Upon applying Freeze, Băng Element DMG tăng 5% trong 5 giây"
+      },
+      {
+        "count": 4,
+        "text": "[4-Set] Khi sử dụng Tag-out Skill, Incapacitate DMG tăng 10% trong 5 giây"
+      }
+    ]
+  },
+  {
+    "id": "set-13100",
+    "kind": "set",
+    "title": "Mount Tai's Towering Might",
+    "image": "/catalog/set-13100.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mount-tais-towering-might/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Crit Rate +5% trong 5s khi dùng kỹ năng đổi nhân vật"
+      },
+      {
+        "count": 4,
+        "text": "Lôi DMG +7.5% trong 5s khi dùng a kỹ năng đặc biệt"
+      }
+    ]
+  },
+  {
+    "id": "set-13300",
+    "kind": "set",
+    "title": "Night of a Full Moon",
+    "image": "/catalog/set-13300.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/night-of-a-full-moon/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Hỏa DMG +7.5% trong 5s khi dùng a kỹ năng đặc biệt"
+      },
+      {
+        "count": 4,
+        "text": "Hỏa DMG +7.5% khi attacking an enemy with Hỏa Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-13000",
+    "kind": "set",
+    "title": "Sirius",
+    "image": "/catalog/set-13000.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sirius/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "EARTH",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Cả đội' Thổ DMG +7.5% trong 5s khi dùng a Support Skill"
+      },
+      {
+        "count": 4,
+        "text": "Support DMG +7.5% trong 5s khi dùng a kỹ năng đổi nhân vật"
+      }
+    ]
+  },
+  {
+    "id": "set-11300",
+    "kind": "set",
+    "title": "Spirit King",
+    "image": "/catalog/set-11300.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/spirit-king/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "LIGHTNING",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Lôi DMG +8% trong 3s khi dùng a đòn đánh thường"
+      },
+      {
+        "count": 4,
+        "text": "Lôi DMG +10% khi attacking an enemy with Lôi Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-12100",
+    "kind": "set",
+    "title": "Swamp Lord",
+    "image": "/catalog/set-12100.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/swamp-lord/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Cả đội' Băng DMG +5% trong 5s khi granting a Shield"
+      },
+      {
+        "count": 4,
+        "text": "Elemental Weakness DMG taken by target +10% trong 5s khi attacking an enemy inflicted with Băng Affliction và Stagger"
+      }
+    ]
+  },
+  {
+    "id": "set-14000",
+    "kind": "set",
+    "title": "The Nameless One",
+    "image": "/catalog/set-14000.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/the-nameless-one/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "WIND",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "[2-Set] Basic attacks deal 5% increased Phong damage"
+      },
+      {
+        "count": 4,
+        "text": "[4-Set] Khi sử dụng chiêu cuối, the target's Phong RES giảm by 10% trong 5 giây"
+      }
+    ]
+  },
+  {
+    "id": "set-12700",
+    "kind": "set",
+    "title": "Thousand-Year-Old Tree",
+    "image": "/catalog/set-12700.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thousand-year-old-tree/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Cả đội' Hỏa DMG +7.5% trong 5s khi dùng a Support Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-12600",
+    "kind": "set",
+    "title": "Vanguard of Victory",
+    "image": "/catalog/set-12600.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/vanguard-of-victory/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Target's Elemental Weakness DMG taken +10% trong 5s khi attacking an enemy with Thổ Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-12800",
+    "kind": "set",
+    "title": "Victorious General's Rites",
+    "image": "/catalog/set-12800.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/victorious-generals-rites/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "EARTH",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Thổ Attack Neutralization DMG +7.5%"
+      }
+    ]
+  },
+  {
+    "id": "set-11600",
+    "kind": "set",
+    "title": "West Wind",
+    "image": "/catalog/set-11600.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/west-wind/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "EARTH",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Thổ DMG +8% trong 3s khi dùng a đòn đánh thường"
+      },
+      {
+        "count": 4,
+        "text": "Thổ DMG +10% trong 5s khi dùng a kỹ năng đổi nhân vật on an enemy with Thổ Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-10600",
+    "kind": "set",
+    "title": "Assault Squad Leader",
+    "image": "/catalog/set-10600.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/assault-squad-leader/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "ATK +5% trong 5s khi dùng a Support Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-11200",
+    "kind": "set",
+    "title": "Devourer Stance",
+    "image": "/catalog/set-11200.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-stance/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "WIND",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Phong DMG +5% khi attacking an enemy with Phong Affliction"
+      },
+      {
+        "count": 4,
+        "text": "Cả đội' Crit Rate +3% trong 5s khi dùng a Support Skill"
+      },
+      {
+        "count": 4,
+        "text": "Crit DMG +10% trong 5s khi dùng a Tag-out Skill"
+      }
+    ]
+  },
+  {
+    "id": "set-11000",
+    "kind": "set",
+    "title": "Frenzied White Wolf",
+    "image": "/catalog/set-11000.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/frenzied-white-wolf/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "EARTH",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Cả đội' DEF +3% trong 5s khi dùng a Support Skill"
+      },
+      {
+        "count": 4,
+        "text": "Target's Elemental Weakness DMG taken +2% trong 5s khi attacking an enemy with Thổ Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-12000",
+    "kind": "set",
+    "title": "Gisaeng's Glow Up",
+    "image": "/catalog/set-12000.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gisaengs-glow-up/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng DMG +5% trong 5s khi dùng a kỹ năng đặc biệt"
+      }
+    ]
+  },
+  {
+    "id": "set-10100",
+    "kind": "set",
+    "title": "Glutton's Visage",
+    "image": "/catalog/set-10100.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gluttons-visage/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "đòn đánh thường's Hỏa DMG +3%"
+      }
+    ]
+  },
+  {
+    "id": "set-10900",
+    "kind": "set",
+    "title": "Green Nightmare",
+    "image": "/catalog/set-10900.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/green-nightmare/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Băng DMG +3% trong 2s khi dùng a đòn đánh thường"
+      },
+      {
+        "count": 4,
+        "text": "Crit DMG +3% trong 5s khi dùng a kỹ năng đổi nhân vật on kẻ địch with Băng Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-10500",
+    "kind": "set",
+    "title": "Ice Heart",
+    "image": "/catalog/set-10500.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ice-heart/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "LIGHTNING",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Lôi attack Stagger DMG +3%"
+      }
+    ]
+  },
+  {
+    "id": "set-10800",
+    "kind": "set",
+    "title": "Military Officer's Courtesy",
+    "image": "/catalog/set-10800.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/military-officers-courtesy/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "EARTH",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Thổ DMG +3% khi đánh trúng đòn chí mạng with an Thổ attack"
+      }
+    ]
+  },
+  {
+    "id": "set-11700",
+    "kind": "set",
+    "title": "Moonshadow",
+    "image": "/catalog/set-11700.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/moonshadow/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Crit DMG +5% khi attacking an enemy with Hỏa Affliction"
+      },
+      {
+        "count": 4,
+        "text": "Hỏa DMG +5% trong 5s when a minion is summoned"
+      }
+    ]
+  },
+  {
+    "id": "set-11100",
+    "kind": "set",
+    "title": "Mountain Peak Majesty",
+    "image": "/catalog/set-11100.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mountain-peak-majesty/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "FIRE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Target's Hỏa RES -3% trong 5s khi đánh trúng a Tag-out Skill"
+      },
+      {
+        "count": 4,
+        "text": "Hỏa DMG +5% khi attacking an enemy with Hỏa Affliction"
+      }
+    ]
+  },
+  {
+    "id": "set-10700",
+    "kind": "set",
+    "title": "Mystical Jade Odong",
+    "image": "/catalog/set-10700.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mystical-jade-odong/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Max HP +3%"
+      }
+    ]
+  },
+  {
+    "id": "set-11800",
+    "kind": "set",
+    "title": "Onsae's Dance",
+    "image": "/catalog/set-11800.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/onsaes-dance/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "Crit Rate +5% trong 5s khi triggering a Perfect Dodge"
+      }
+    ]
+  },
+  {
+    "id": "set-13700",
+    "kind": "set",
+    "title": "Silent Dismantler",
+    "image": "/catalog/set-13700.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/silent-dismantler/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "[2-Set] Khi sử dụng Support Skill, all Teammates' Lôi Element DMG tăng 3% trong 5 giây"
+      }
+    ]
+  },
+  {
+    "id": "set-10200",
+    "kind": "set",
+    "title": "Sticky Gorger",
+    "image": "/catalog/set-10200.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sticky-gorger/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "ATK +3%"
+      }
+    ]
+  },
+  {
+    "id": "set-10400",
+    "kind": "set",
+    "title": "Stone Heart",
+    "image": "/catalog/set-10400.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/stone-heart/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "DEF +3%"
+      }
+    ]
+  },
+  {
+    "id": "set-13600",
+    "kind": "set",
+    "title": "Thought Shredder",
+    "image": "/catalog/set-13600.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thought-shredder/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "WIND",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "[2-Set] Thổ Element DMG on đòn đánh thường tăng 3%"
+      }
+    ]
+  },
+  {
+    "id": "set-13800",
+    "kind": "set",
+    "title": "Violent Predator",
+    "image": "/catalog/set-13800.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/violent-predator/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "ICE",
+    "description": "",
+    "updated": "2026-10-26",
+    "effects": [
+      {
+        "count": 2,
+        "text": "[2-Set] Basic attacks deal 3% increased Băng damage"
+      },
+      {
+        "count": 4,
+        "text": "[4-Set] Upon đòn chí mạng, Băng Element DMG tăng 7% trong 5 giây"
+      }
+    ]
+  },
+  {
+    "id": "monsterling-404",
+    "kind": "monsterling",
+    "title": "2nd Lt. Goblin",
+    "image": "/catalog/monsterling-404.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/2nd-lt-goblin/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.57% trong 5s khi đánh trúng 10 đòn đánh thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3803",
+    "kind": "monsterling",
+    "title": "Albino Wolf",
+    "image": "/catalog/monsterling-3803.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/albino-wolf/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.57% trong 5s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-27002",
+    "kind": "monsterling",
+    "title": "Altus Raptor",
+    "image": "/catalog/monsterling-27002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/altus-raptor/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi chiêu cuối đánh trúng: Lôi DMG nguyên tố tăng 11.55% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Intricate Steel Claw"
+  },
+  {
+    "id": "monsterling-4901",
+    "kind": "monsterling",
+    "title": "Amon",
+    "image": "/catalog/monsterling-4901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/amon/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: Crit Rate + 11% trong 10s khi tấn công boss 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Void's Seed"
+  },
+  {
+    "id": "monsterling-4902",
+    "kind": "monsterling",
+    "title": "Amon's Shadow",
+    "image": "/catalog/monsterling-4902.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/amons-shadow/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: Crit Rate + 11.55% trong 10s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Token of Obedience"
+  },
+  {
+    "id": "monsterling-11702",
+    "kind": "monsterling",
+    "title": "Ashen Mask",
+    "image": "/catalog/monsterling-11702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ashen-mask/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: ATK - 4% trong 10s khi tấn công boss (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Ancient Dokkaebi's White Mask"
+  },
+  {
+    "id": "monsterling-1901",
+    "kind": "monsterling",
+    "title": "Avardan",
+    "image": "/catalog/monsterling-1901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/avardan/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: chiêu cuối DMG + 11% trong 10s khi bị boss đánh trúng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Golem's Gem"
+  },
+  {
+    "id": "monsterling-1902",
+    "kind": "monsterling",
+    "title": "Avardan's Mana",
+    "image": "/catalog/monsterling-1902.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/avardans-mana/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Hồi 3.47% HP cho cả đội khi tấn công a boss bị choáng enemy (Hồi chiêu: 10s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Shadowed Stone"
+  },
+  {
+    "id": "monsterling-16101",
+    "kind": "monsterling",
+    "title": "Baby Spirit",
+    "image": "/catalog/monsterling-16101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/baby-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.25% lên địch thường trong 5s khi tấn công địch hệ Phong 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11601",
+    "kind": "monsterling",
+    "title": "Battle Spirit",
+    "image": "/catalog/monsterling-11601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/battle-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Hỏa DMG + 6.25% lên boss",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-25401",
+    "kind": "monsterling",
+    "title": "Beepmo",
+    "image": "/catalog/monsterling-25401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/beepmo/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi tấn công địch hệ Băng 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3901",
+    "kind": "monsterling",
+    "title": "Behemo-wolf",
+    "image": "/catalog/monsterling-3901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/behemo-wolf/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Suppression DMG + 8% trong 10s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Giant Wolf's Fang"
+  },
+  {
+    "id": "monsterling-1102",
+    "kind": "monsterling",
+    "title": "Big Bro Goblin",
+    "image": "/catalog/monsterling-1102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/big-bro-goblin/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Hồi 3.47% HP cho cả đội khi đánh trúng 10 đòn đánh thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Commanding Flute"
+  },
+  {
+    "id": "monsterling-25202",
+    "kind": "monsterling",
+    "title": "Bizpomo",
+    "image": "/catalog/monsterling-25202.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bizpomo/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Suppression DMG + 6.57% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6801",
+    "kind": "monsterling",
+    "title": "Black Hauntstack",
+    "image": "/catalog/monsterling-6801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/black-hauntstack/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Băng DMG + 8% lên boss bị choáng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Youkai's Giant Charm"
+  },
+  {
+    "id": "monsterling-703",
+    "kind": "monsterling",
+    "title": "Black Wolf",
+    "image": "/catalog/monsterling-703.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/black-wolf/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Brawl DMG + 6.57% trong 5s khi đánh trúng đòn chí mạng (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11302",
+    "kind": "monsterling",
+    "title": "Bleacher Bunnie",
+    "image": "/catalog/monsterling-11302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bleacher-bunnie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Phong DMG + 6.57% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11502",
+    "kind": "monsterling",
+    "title": "Bleacher Raccoonie",
+    "image": "/catalog/monsterling-11502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bleacher-raccoonie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.57% lên boss trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-17102",
+    "kind": "monsterling",
+    "title": "Blue Shadow",
+    "image": "/catalog/monsterling-17102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/blue-shadow/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt: Băng DMG + 11.55% khi tấn công bằng Băng kỹ năng đặc biệt",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Purple Gem"
+  },
+  {
+    "id": "monsterling-7001",
+    "kind": "monsterling",
+    "title": "Bop-kkaebi",
+    "image": "/catalog/monsterling-7001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bop-kkaebi/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "chiêu cuối Crit DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12901",
+    "kind": "monsterling",
+    "title": "Borborg",
+    "image": "/catalog/monsterling-12901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/borborg/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "DEF + 6% trong 5s khi tấn công boss 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Thorny Shield"
+  },
+  {
+    "id": "monsterling-3501",
+    "kind": "monsterling",
+    "title": "Bouldermander",
+    "image": "/catalog/monsterling-3501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bouldermander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2401",
+    "kind": "monsterling",
+    "title": "Brown Cappy",
+    "image": "/catalog/monsterling-2401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/brown-cappy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Crit DMG + 6.25% (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13302",
+    "kind": "monsterling",
+    "title": "Bruised Bloodflower",
+    "image": "/catalog/monsterling-13302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bruised-bloodflower/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: Lôi RES - 6.57% trong 5s khi tấn công địch hệ Lôi 5 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6902",
+    "kind": "monsterling",
+    "title": "Brush Hauntstack",
+    "image": "/catalog/monsterling-6902.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/brush-hauntstack/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Băng DMG + 6.57% lên boss bị choáng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12701",
+    "kind": "monsterling",
+    "title": "Brute-alee",
+    "image": "/catalog/monsterling-12701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/brute-alee/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "phản công trên không Crit DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11201",
+    "kind": "monsterling",
+    "title": "Bunnie",
+    "image": "/catalog/monsterling-11201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bunnie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16601",
+    "kind": "monsterling",
+    "title": "Bunnie Swordsman",
+    "image": "/catalog/monsterling-16601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/bunnie-swordsman/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: Phong RES - 6.25% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13001",
+    "kind": "monsterling",
+    "title": "Cacabagge",
+    "image": "/catalog/monsterling-13001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cacabagge/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.25% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-101",
+    "kind": "monsterling",
+    "title": "Cappy",
+    "image": "/catalog/monsterling-101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cappy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Crit Rate + 6.25% (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-201",
+    "kind": "monsterling",
+    "title": "Cappy Mama",
+    "image": "/catalog/monsterling-201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cappy-mama/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Hồi 2.4% HP tối đa khi đánh trúng a kỹ năng đặc biệt (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mother's Leaf"
+  },
+  {
+    "id": "monsterling-29501",
+    "kind": "monsterling",
+    "title": "Cappy: Summer Dive!",
+    "image": "/catalog/monsterling-29501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cappy-summer-dive/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Crit Rate + 6.25% (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-104",
+    "kind": "monsterling",
+    "title": "Cappyberry",
+    "image": "/catalog/monsterling-104.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cappyberry/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Crit Rate + 6.57% (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-25802",
+    "kind": "monsterling",
+    "title": "CapQ",
+    "image": "/catalog/monsterling-25802.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/capq/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Support DMG + 6.57% trong 5s khi tấn công địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16102",
+    "kind": "monsterling",
+    "title": "Chipmunk Spirit",
+    "image": "/catalog/monsterling-16102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/chipmunk-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.57% lên địch thường trong 5s khi tấn công địch hệ Phong 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13502",
+    "kind": "monsterling",
+    "title": "Cinder",
+    "image": "/catalog/monsterling-13502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cinder/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit DMG + 11.55% trong 5s khi đánh trúng đòn chí mạng bằng chiêu cuối",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Hot Furball"
+  },
+  {
+    "id": "monsterling-26002",
+    "kind": "monsterling",
+    "title": "Clean Horde",
+    "image": "/catalog/monsterling-26002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/clean-horde/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Sau 10 lần tấn công boss: Mục tiêu: Phong RES giảm 11.55% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Clean Machine Heart"
+  },
+  {
+    "id": "monsterling-13101",
+    "kind": "monsterling",
+    "title": "Cocorn",
+    "image": "/catalog/monsterling-13101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cocorn/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-25901",
+    "kind": "monsterling",
+    "title": "Colossus",
+    "image": "/catalog/monsterling-25901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/colossus/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Thổ DMG + 8% trong 10s khi đánh trúng đòn chí mạng bằng đòn Thổ",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Giant's Destroyed Fist"
+  },
+  {
+    "id": "monsterling-25902",
+    "kind": "monsterling",
+    "title": "Colossus Alter",
+    "image": "/catalog/monsterling-25902.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/colossus-alter/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Sau 10 lần đánh đúng điểm yếu nguyên tố: Thổ DMG nguyên tố tăng 8.4% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "State-of-the-Art Optic Sensor"
+  },
+  {
+    "id": "monsterling-601",
+    "kind": "monsterling",
+    "title": "Cpl. Goblin",
+    "image": "/catalog/monsterling-601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/cpl-goblin/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Suppression DMG + 6.25% trong 5s khi đánh trúng 10 đòn đánh thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-803",
+    "kind": "monsterling",
+    "title": "Crimsonjaw",
+    "image": "/catalog/monsterling-803.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/crimsonjaw/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Critical Băng DMG + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26301",
+    "kind": "monsterling",
+    "title": "Crusher",
+    "image": "/catalog/monsterling-26301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/crusher/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Max HP + 4.69% trong 5s khi tấn công địch hệ Lôi 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1301",
+    "kind": "monsterling",
+    "title": "Custos",
+    "image": "/catalog/monsterling-1301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/custos/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: DEF - 8.25% trong 5s khi đánh trúng đòn chí mạng bằng đòn Thổ",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Warden's Core"
+  },
+  {
+    "id": "monsterling-2201",
+    "kind": "monsterling",
+    "title": "Digger Mole",
+    "image": "/catalog/monsterling-2201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/digger-mole/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.25% lên mục tiêu bị đánh ngã",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1401",
+    "kind": "monsterling",
+    "title": "Duoxini",
+    "image": "/catalog/monsterling-1401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/duoxini/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: Hỏa RES - 11% trong 10s khi tấn công bằng Hỏa kỹ năng đặc biệt",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Dokkaebi King's Mask"
+  },
+  {
+    "id": "monsterling-22001",
+    "kind": "monsterling",
+    "title": "EightB",
+    "image": "/catalog/monsterling-22001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/eightb/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Lôi DMG + 6.25% khi tấn công địch hệ Lôi 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1302",
+    "kind": "monsterling",
+    "title": "El Dorado Guardian",
+    "image": "/catalog/monsterling-1302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/el-dorado-guardian/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: ATK + 5.78% trong 10s khi tấn công boss bằng nguyên tố khắc chế (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Mutated Spirit Core"
+  },
+  {
+    "id": "monsterling-5302",
+    "kind": "monsterling",
+    "title": "Empress Slime",
+    "image": "/catalog/monsterling-5302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/empress-slime/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 4.2% trong 10s khi tấn công địch vật lý (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Queen's Mascara"
+  },
+  {
+    "id": "monsterling-4401",
+    "kind": "monsterling",
+    "title": "Enforcer",
+    "image": "/catalog/monsterling-4401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/enforcer/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26602",
+    "kind": "monsterling",
+    "title": "Feargiver",
+    "image": "/catalog/monsterling-26602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/feargiver/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Neutralization DMG + 6.57% trong 5s khi tấn công địch hệ Băng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26601",
+    "kind": "monsterling",
+    "title": "Fearless",
+    "image": "/catalog/monsterling-26601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/fearless/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Neutralization DMG + 6.25% trong 5s khi tấn công địch hệ Băng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-27001",
+    "kind": "monsterling",
+    "title": "Fidelis Raptor",
+    "image": "/catalog/monsterling-27001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/fidelis-raptor/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit Rate + 11% khi dùng Lôi đánh vào mục tiêu có Lôi Affliction",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Sharp Steel Tooth"
+  },
+  {
+    "id": "monsterling-1402",
+    "kind": "monsterling",
+    "title": "Fiend",
+    "image": "/catalog/monsterling-1402.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/fiend/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt: Hỏa DMG + 11.55% khi tấn công bằng Hỏa kỹ năng đặc biệt",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Ancient Dokkaebi's Bat"
+  },
+  {
+    "id": "monsterling-5201",
+    "kind": "monsterling",
+    "title": "Fire Slime",
+    "image": "/catalog/monsterling-5201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/fire-slime/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Elemental Weakness DMG + 6.25% lên Hỏa kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-901",
+    "kind": "monsterling",
+    "title": "Forkmugger",
+    "image": "/catalog/monsterling-901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/forkmugger/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: Physical RES - 11% trong 5s khi tấn công bằng nguyên tố khắc chế (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Gluttonous Fork"
+  },
+  {
+    "id": "monsterling-4002",
+    "kind": "monsterling",
+    "title": "Frostbite",
+    "image": "/catalog/monsterling-4002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/frostbite/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt DMG + 8.4% trong 10s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Giant Wolf's Helm"
+  },
+  {
+    "id": "monsterling-801",
+    "kind": "monsterling",
+    "title": "Frostjaw",
+    "image": "/catalog/monsterling-801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/frostjaw/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Critical Băng DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6303",
+    "kind": "monsterling",
+    "title": "Full Moon Vamphid",
+    "image": "/catalog/monsterling-6303.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/full-moon-vamphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.57% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-22101",
+    "kind": "monsterling",
+    "title": "Garbinator",
+    "image": "/catalog/monsterling-22101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/garbinator/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi kỹ năng đổi nhân vật đánh trúng địch có hiệu ứng suy yếu Lôi: kỹ năng đổi nhân vật DMG tăng 11%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Active Core"
+  },
+  {
+    "id": "monsterling-5801",
+    "kind": "monsterling",
+    "title": "Gargoyle",
+    "image": "/catalog/monsterling-5801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/gargoyle/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: DEF - 4.69% trong 5s khi dùng phản công trên không.",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12902",
+    "kind": "monsterling",
+    "title": "Goald",
+    "image": "/catalog/monsterling-12902.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/goald/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "DEF + 6.3% trong 5s khi tấn công boss 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Gold-Plated Spiky Shield"
+  },
+  {
+    "id": "monsterling-401",
+    "kind": "monsterling",
+    "title": "Goblin Recruit",
+    "image": "/catalog/monsterling-401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/goblin-recruit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% trong 5s khi đánh trúng 10 đòn đánh thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2202",
+    "kind": "monsterling",
+    "title": "Gold Digger Mole",
+    "image": "/catalog/monsterling-2202.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/gold-digger-mole/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.57% lên mục tiêu bị đánh ngã",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3002",
+    "kind": "monsterling",
+    "title": "Gold Digger Moley Mole",
+    "image": "/catalog/monsterling-3002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/gold-digger-moley-mole/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Suppression DMG + 8.4% lên mục tiêu bị đánh ngã",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mole's Treasure"
+  },
+  {
+    "id": "monsterling-1702",
+    "kind": "monsterling",
+    "title": "Golden Fist Dude",
+    "image": "/catalog/monsterling-1702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/golden-fist-dude/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Attack Neutralization DMG + 11.55% khi tấn công bằng nguyên tố khắc chế",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Golden Heart"
+  },
+  {
+    "id": "monsterling-2703",
+    "kind": "monsterling",
+    "title": "Golden Spark Slime",
+    "image": "/catalog/monsterling-2703.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/golden-spark-slime/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.57% lên Lôi kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5001",
+    "kind": "monsterling",
+    "title": "Gorrik",
+    "image": "/catalog/monsterling-5001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/gorrik/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Hồi 2.4% HP tối đa khi đánh trúng 10 đòn đánh thường",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Taskmaster's Leather Gloves"
+  },
+  {
+    "id": "monsterling-5901",
+    "kind": "monsterling",
+    "title": "Grassgoyle",
+    "image": "/catalog/monsterling-5901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/grassgoyle/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "phản công trên không Physical DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2601",
+    "kind": "monsterling",
+    "title": "Green Cappy",
+    "image": "/catalog/monsterling-2601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/green-cappy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Neutralization DMG + 6.25% (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1602",
+    "kind": "monsterling",
+    "title": "Green Cappy Bro",
+    "image": "/catalog/monsterling-1602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/green-cappy-bro/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt Hỏa DMG + 8.4% (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mushroom Man's Pouch"
+  },
+  {
+    "id": "monsterling-3301",
+    "kind": "monsterling",
+    "title": "Green Cappy Papa",
+    "image": "/catalog/monsterling-3301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/green-cappy-papa/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt ATK + 4% (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Green Swaddle"
+  },
+  {
+    "id": "monsterling-5702",
+    "kind": "monsterling",
+    "title": "Greenpadupa",
+    "image": "/catalog/monsterling-5702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/greenpadupa/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 4.2% trong 10s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Precious Spider Cocoon"
+  },
+  {
+    "id": "monsterling-22201",
+    "kind": "monsterling",
+    "title": "Grippy",
+    "image": "/catalog/monsterling-22201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/grippy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Brawl DMG + 6.25% khi tấn công bằng nguyên tố khắc chế",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16302",
+    "kind": "monsterling",
+    "title": "Grudge Revenant",
+    "image": "/catalog/monsterling-16302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/grudge-revenant/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Toàn đội: sát thương hỗ trợ tăng 6.57% trong 5 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16301",
+    "kind": "monsterling",
+    "title": "Grudge Spirit",
+    "image": "/catalog/monsterling-16301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/grudge-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Toàn đội: sát thương hỗ trợ tăng 6.25% trong 5 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2002",
+    "kind": "monsterling",
+    "title": "Gulgak",
+    "image": "/catalog/monsterling-2002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/gulgak/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: DEF - 8.67% trong 5s khi đánh trúng đòn chí mạng lên boss.",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Cursed Rosary"
+  },
+  {
+    "id": "monsterling-2001",
+    "kind": "monsterling",
+    "title": "Hahnul",
+    "image": "/catalog/monsterling-2001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/hahnul/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: kỹ năng đổi nhân vật DMG + 11% trong 10s khi đánh trúng đòn chí mạng lên boss",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Giant Tiger's Claw"
+  },
+  {
+    "id": "monsterling-25801",
+    "kind": "monsterling",
+    "title": "Hak-yu",
+    "image": "/catalog/monsterling-25801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/hak-yu/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Support DMG + 6.25% trong 5s khi tấn công địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4301",
+    "kind": "monsterling",
+    "title": "Harvester",
+    "image": "/catalog/monsterling-4301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/harvester/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.25% trong 5s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6901",
+    "kind": "monsterling",
+    "title": "Hauntstack",
+    "image": "/catalog/monsterling-6901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/hauntstack/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Crit Rate + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6301",
+    "kind": "monsterling",
+    "title": "Head Stickphid",
+    "image": "/catalog/monsterling-6301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/head-stickphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.25% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6201",
+    "kind": "monsterling",
+    "title": "Healphid",
+    "image": "/catalog/monsterling-6201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/healphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Băng DMG + 6.25% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12601",
+    "kind": "monsterling",
+    "title": "Hop-alee",
+    "image": "/catalog/monsterling-12601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/hop-alee/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "phản công trên không Crit Rate + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-22202",
+    "kind": "monsterling",
+    "title": "Hunppy",
+    "image": "/catalog/monsterling-22202.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/hunppy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Brawl DMG + 6.57% khi tấn công bằng nguyên tố khắc chế",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6401",
+    "kind": "monsterling",
+    "title": "Ice Fist Dude",
+    "image": "/catalog/monsterling-6401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ice-fist-dude/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Elemental Weakness Crit Rate + 11%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Frozen Gem"
+  },
+  {
+    "id": "monsterling-5101",
+    "kind": "monsterling",
+    "title": "Ice Slime",
+    "image": "/catalog/monsterling-5101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ice-slime/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Elemental Weakness DMG + 6.25% lên Băng kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-303",
+    "kind": "monsterling",
+    "title": "Inklet",
+    "image": "/catalog/monsterling-303.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/inklet/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.57% lên địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-10801",
+    "kind": "monsterling",
+    "title": "Irontoise",
+    "image": "/catalog/monsterling-10801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/irontoise/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: DEF + 6% trong 10s khi đánh trúng đòn chí mạng lên boss",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Turtle's Stone Hammer"
+  },
+  {
+    "id": "monsterling-13002",
+    "kind": "monsterling",
+    "title": "Kimkimchi",
+    "image": "/catalog/monsterling-13002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/kimkimchi/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.57% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1001",
+    "kind": "monsterling",
+    "title": "King Slime",
+    "image": "/catalog/monsterling-1001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/king-slime/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: DEF + 8.25% trong 5s khi tấn công địch hệ Thủy (Hồi chiêu: 10s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Gooey Crown"
+  },
+  {
+    "id": "monsterling-7301",
+    "kind": "monsterling",
+    "title": "Kkaebi Herder",
+    "image": "/catalog/monsterling-7301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/kkaebi-herder/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Khi chiêu cuối đánh trúng: Normal monster DMG tăng 6.25% trong 5 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-10701",
+    "kind": "monsterling",
+    "title": "Kroko",
+    "image": "/catalog/monsterling-10701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/kroko/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi đánh địch thường 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-10702",
+    "kind": "monsterling",
+    "title": "Krokomander",
+    "image": "/catalog/monsterling-10702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/krokomander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.93% trong 5s khi đánh địch thường 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-204",
+    "kind": "monsterling",
+    "title": "Leafy Mama",
+    "image": "/catalog/monsterling-204.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/leafy-mama/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi kỹ năng đặc biệt đánh trúng: Hồi 2.52% HP tối đa (Kích hoạt mỗi 15 giây)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Queenshroom's Halo"
+  },
+  {
+    "id": "monsterling-3403",
+    "kind": "monsterling",
+    "title": "Leafymander",
+    "image": "/catalog/monsterling-3403.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/leafymander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.57% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6701",
+    "kind": "monsterling",
+    "title": "Lil' Hauntstack",
+    "image": "/catalog/monsterling-6701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/lil-hauntstack/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Crit DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16401",
+    "kind": "monsterling",
+    "title": "Lizarcher",
+    "image": "/catalog/monsterling-16401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/lizarcher/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi tấn công địch hệ Hỏa 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-9301",
+    "kind": "monsterling",
+    "title": "Lizcout",
+    "image": "/catalog/monsterling-9301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/lizcout/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ ATK + 6.25% trong 10s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1201",
+    "kind": "monsterling",
+    "title": "Lupe",
+    "image": "/catalog/monsterling-1201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/lupe/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Neutralization DMG + 11% trong 10s khi đánh trúng đòn chí mạng (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Warrior's Mark"
+  },
+  {
+    "id": "monsterling-26501",
+    "kind": "monsterling",
+    "title": "Macrodon",
+    "image": "/catalog/monsterling-26501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/macrodon/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi chiêu cuối đánh trúng: Băng sát thương nguyên tố tăng 8% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Steel Saw Jaws"
+  },
+  {
+    "id": "monsterling-13401",
+    "kind": "monsterling",
+    "title": "Manwol",
+    "image": "/catalog/monsterling-13401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/manwol/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit Rate + 11% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Shining Hoof"
+  },
+  {
+    "id": "monsterling-8602",
+    "kind": "monsterling",
+    "title": "Maple Odong",
+    "image": "/catalog/monsterling-8602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/maple-odong/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật ATK + 5.78%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Autumn Branch"
+  },
+  {
+    "id": "monsterling-11203",
+    "kind": "monsterling",
+    "title": "Masked Bunnie",
+    "image": "/catalog/monsterling-11203.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/masked-bunnie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.57% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11403",
+    "kind": "monsterling",
+    "title": "Masked Raccoonie",
+    "image": "/catalog/monsterling-11403.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/masked-raccoonie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: Physical RES - 6.57% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-9302",
+    "kind": "monsterling",
+    "title": "Master Lizcout",
+    "image": "/catalog/monsterling-9302.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/master-lizcout/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ ATK + 6.57% trong 10s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3001",
+    "kind": "monsterling",
+    "title": "Moley Mole",
+    "image": "/catalog/monsterling-3001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/moley-mole/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Suppression DMG + 8% lên mục tiêu bị đánh ngã",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mole's Shovel"
+  },
+  {
+    "id": "monsterling-4102",
+    "kind": "monsterling",
+    "title": "Mollumander",
+    "image": "/catalog/monsterling-4102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/mollumander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.57% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4502",
+    "kind": "monsterling",
+    "title": "Monk's Shadow",
+    "image": "/catalog/monsterling-4502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/monks-shadow/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Elemental Weakness DMG + 6.57% trong 5s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1202",
+    "kind": "monsterling",
+    "title": "Moon Shadow Lupe",
+    "image": "/catalog/monsterling-1202.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/moon-shadow-lupe/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: Băng RES - 11.55% trong 10s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Moonlight-Touched Claw"
+  },
+  {
+    "id": "monsterling-4701",
+    "kind": "monsterling",
+    "title": "Mountaintaur",
+    "image": "/catalog/monsterling-4701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/mountaintaur/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit DMG + 11% lên boss bị choáng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Bloodstained Bridle"
+  },
+  {
+    "id": "monsterling-17001",
+    "kind": "monsterling",
+    "title": "Nagi",
+    "image": "/catalog/monsterling-17001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/nagi/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Phong sát thương nguyên tố tăng 11% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Shaman's Flower Fan"
+  },
+  {
+    "id": "monsterling-13402",
+    "kind": "monsterling",
+    "title": "Nokjung",
+    "image": "/catalog/monsterling-13402.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/nokjung/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit Rate + 11.55% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Black Antler"
+  },
+  {
+    "id": "monsterling-3603",
+    "kind": "monsterling",
+    "title": "Noxtroll",
+    "image": "/catalog/monsterling-3603.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/noxtroll/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "chiêu cuối Neutralization DMG + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-27202",
+    "kind": "monsterling",
+    "title": "Oblivion",
+    "image": "/catalog/monsterling-27202.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/oblivion/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi kỹ năng đặc biệt hệ Phong đánh trúng: Mục tiêu: Phong RES giảm 11.55% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Pure Void Crystal"
+  },
+  {
+    "id": "monsterling-8601",
+    "kind": "monsterling",
+    "title": "Odong",
+    "image": "/catalog/monsterling-8601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/odong/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật ATK + 5.5%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Mysterious Branch"
+  },
+  {
+    "id": "monsterling-7901",
+    "kind": "monsterling",
+    "title": "Odong Seed",
+    "image": "/catalog/monsterling-7901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/odong-seed/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Thổ DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13501",
+    "kind": "monsterling",
+    "title": "Onsae",
+    "image": "/catalog/monsterling-13501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/onsae/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit DMG + 11% trong 5s khi đánh trúng đòn chí mạng bằng chiêu cuối",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Flaming Fox Fur"
+  },
+  {
+    "id": "monsterling-2603",
+    "kind": "monsterling",
+    "title": "Orange Cappy",
+    "image": "/catalog/monsterling-2603.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/orange-cappy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Neutralization DMG + 6.57% (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3201",
+    "kind": "monsterling",
+    "title": "Orc Raider",
+    "image": "/catalog/monsterling-3201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/orc-raider/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.25% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3101",
+    "kind": "monsterling",
+    "title": "Orc Warrior",
+    "image": "/catalog/monsterling-3101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/orc-warrior/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-7101",
+    "kind": "monsterling",
+    "title": "Pew-kkaebi",
+    "image": "/catalog/monsterling-7101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/pew-kkaebi/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "chiêu cuối Hỏa DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16801",
+    "kind": "monsterling",
+    "title": "Phantom Snow Tiger",
+    "image": "/catalog/monsterling-16801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/phantom-snow-tiger/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Suppression DMG tăng 8% trong 5 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Cold Mane"
+  },
+  {
+    "id": "monsterling-16802",
+    "kind": "monsterling",
+    "title": "Phantom Stone Tiger",
+    "image": "/catalog/monsterling-16802.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/phantom-stone-tiger/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Suppression DMG tăng 8.4% trong 5 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mystic Stone Horn"
+  },
+  {
+    "id": "monsterling-3103",
+    "kind": "monsterling",
+    "title": "Pink Orc Dude",
+    "image": "/catalog/monsterling-3103.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/pink-orc-dude/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.57% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6501",
+    "kind": "monsterling",
+    "title": "Plains Minotaur",
+    "image": "/catalog/monsterling-6501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/plains-minotaur/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Phong DMG + 11% lên boss bị choáng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Leather Halter"
+  },
+  {
+    "id": "monsterling-25201",
+    "kind": "monsterling",
+    "title": "Promo",
+    "image": "/catalog/monsterling-25201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/promo/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Suppression DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-501",
+    "kind": "monsterling",
+    "title": "Pvt. Goblin",
+    "image": "/catalog/monsterling-501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/pvt-goblin/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi đánh trúng 10 đòn đánh thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5301",
+    "kind": "monsterling",
+    "title": "Queen Slime",
+    "image": "/catalog/monsterling-5301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/queen-slime/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Physical DMG + 8% trong 5s khi tấn công địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Queen's Crown"
+  },
+  {
+    "id": "monsterling-11401",
+    "kind": "monsterling",
+    "title": "Raccoonie",
+    "image": "/catalog/monsterling-11401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/raccoonie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: Physical RES - 6.25% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26901",
+    "kind": "monsterling",
+    "title": "Ragnadon",
+    "image": "/catalog/monsterling-26901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ragnadon/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Sau 10 lần tấn công boss: Mục tiêu: Hỏa RES giảm 8% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Destroyed Steel Claw"
+  },
+  {
+    "id": "monsterling-17101",
+    "kind": "monsterling",
+    "title": "Red Shadow",
+    "image": "/catalog/monsterling-17101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/red-shadow/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Crit DMG + 11% trong 4s khi dùng an Băng kỹ năng đặc biệt",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Red Gem"
+  },
+  {
+    "id": "monsterling-22002",
+    "kind": "monsterling",
+    "title": "RedB",
+    "image": "/catalog/monsterling-22002.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/redb/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Lôi DMG + 6.57% khi tấn công địch hệ Lôi 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-28801",
+    "kind": "legend",
+    "title": "Reginula",
+    "image": "/catalog/monsterling-28801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/reginula/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Star Waves"
+  },
+  {
+    "id": "monsterling-1501",
+    "kind": "monsterling",
+    "title": "Ring Slime",
+    "image": "/catalog/monsterling-1501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ring-slime/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 4% lên địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Wet Leaf"
+  },
+  {
+    "id": "monsterling-1701",
+    "kind": "monsterling",
+    "title": "Rock Fist Dude",
+    "image": "/catalog/monsterling-1701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/rock-fist-dude/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Attacks' Thổ DMG + 11% khi tấn công bằng nguyên tố khắc chế.",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Frangible Pebble"
+  },
+  {
+    "id": "monsterling-3401",
+    "kind": "monsterling",
+    "title": "Rockymander",
+    "image": "/catalog/monsterling-3401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/rockymander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13102",
+    "kind": "monsterling",
+    "title": "Rococorn",
+    "image": "/catalog/monsterling-13102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/rococorn/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.57% lên địch thường (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11301",
+    "kind": "monsterling",
+    "title": "Ronin Bunnie",
+    "image": "/catalog/monsterling-11301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ronin-bunnie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Phong DMG + 6.25% trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11501",
+    "kind": "monsterling",
+    "title": "Ronin Raccoonie",
+    "image": "/catalog/monsterling-11501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ronin-raccoonie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.25% lên boss trong 5s khi dùng phản công sau né",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11901",
+    "kind": "monsterling",
+    "title": "Ronin Turtlie",
+    "image": "/catalog/monsterling-11901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/ronin-turtlie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi bị boss đánh trúng (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6702",
+    "kind": "monsterling",
+    "title": "Sacred Hauntstack",
+    "image": "/catalog/monsterling-6702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sacred-hauntstack/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Crit DMG + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12602",
+    "kind": "monsterling",
+    "title": "Salt-alee",
+    "image": "/catalog/monsterling-12602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/salt-alee/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "phản công trên không Crit Rate + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4001",
+    "kind": "monsterling",
+    "title": "Scar",
+    "image": "/catalog/monsterling-4001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/scar/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "DMG + 8% lên boss trong 5s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Void's Crimson Bead"
+  },
+  {
+    "id": "monsterling-1003",
+    "kind": "monsterling",
+    "title": "Scarlet Queen",
+    "image": "/catalog/monsterling-1003.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/scarlet-queen/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 5.78% trong 10s khi tấn công địch hệ Thủy (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Queen's Crimson Tears"
+  },
+  {
+    "id": "monsterling-26001",
+    "kind": "monsterling",
+    "title": "Scrap Hoarder",
+    "image": "/catalog/monsterling-26001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/scrap-hoarder/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Sát thương đánh thường tăng 11% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Rusted Heart"
+  },
+  {
+    "id": "monsterling-11701",
+    "kind": "monsterling",
+    "title": "Shademask",
+    "image": "/catalog/monsterling-11701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/shademask/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: ATK - 4% trong 10s khi tấn công boss (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Dokkaebi Mask"
+  },
+  {
+    "id": "monsterling-4101",
+    "kind": "monsterling",
+    "title": "Shellymander",
+    "image": "/catalog/monsterling-4101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/shellymander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-29701",
+    "kind": "monsterling",
+    "title": "Shellymander: Summer Dive!",
+    "image": "/catalog/monsterling-29701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/shellymander-summer-dive/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-22102",
+    "kind": "monsterling",
+    "title": "Silbinator",
+    "image": "/catalog/monsterling-22102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/silbinator/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Sau 10 lần tấn công boss: Toàn đội: Crit DMG tăng 11.55% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Machine Gun Vulcan"
+  },
+  {
+    "id": "monsterling-11803",
+    "kind": "monsterling",
+    "title": "Silvershell",
+    "image": "/catalog/monsterling-11803.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/silvershell/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Toàn đội: kỹ năng hỗ trợ DMG + 6.57% trong 5s khi bị boss đánh trúng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-304",
+    "kind": "monsterling",
+    "title": "Slimeboo",
+    "image": "/catalog/monsterling-304.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/slimeboo/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.57% lên địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-301",
+    "kind": "monsterling",
+    "title": "Slimelet",
+    "image": "/catalog/monsterling-301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/slimelet/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% lên địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-29601",
+    "kind": "monsterling",
+    "title": "Slimelet: Summer Dive!",
+    "image": "/catalog/monsterling-29601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/slimelet-summer-dive/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% lên địch vật lý",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26801",
+    "kind": "monsterling",
+    "title": "Sludge",
+    "image": "/catalog/monsterling-26801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sludge/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5903",
+    "kind": "monsterling",
+    "title": "Soilgoyle",
+    "image": "/catalog/monsterling-5903.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/soilgoyle/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "phản công trên không Physical DMG + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-34001",
+    "kind": "legend",
+    "title": "Sorin",
+    "image": "/catalog/monsterling-34001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sorin/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "A Wish for the Heavens"
+  },
+  {
+    "id": "monsterling-5701",
+    "kind": "monsterling",
+    "title": "Spadupa",
+    "image": "/catalog/monsterling-5701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spadupa/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Thổ DMG + 8% trong 10s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Poisoned Claw"
+  },
+  {
+    "id": "monsterling-5401",
+    "kind": "monsterling",
+    "title": "Spaider",
+    "image": "/catalog/monsterling-5401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spaider/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5501",
+    "kind": "monsterling",
+    "title": "Sparder",
+    "image": "/catalog/monsterling-5501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sparder/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.25% lên địch thường trong 5s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5502",
+    "kind": "monsterling",
+    "title": "Spardig",
+    "image": "/catalog/monsterling-5502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spardig/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DMG + 6.57% lên địch thường trong 5s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2701",
+    "kind": "monsterling",
+    "title": "Spark Slime",
+    "image": "/catalog/monsterling-2701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spark-slime/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit Rate + 6.25% lên Lôi kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-5601",
+    "kind": "monsterling",
+    "title": "Spooder",
+    "image": "/catalog/monsterling-5601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spooder/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% trong 5s khi hạ 10 kẻ địch",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6601",
+    "kind": "monsterling",
+    "title": "Spoonmugger",
+    "image": "/catalog/monsterling-6601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/spoonmugger/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Mục tiêu: Lôi RES - 11% trong 5s khi tấn công bằng nguyên tố khắc chế",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Ravenous Spoon"
+  },
+  {
+    "id": "monsterling-6602",
+    "kind": "monsterling",
+    "title": "Stickmugger",
+    "image": "/catalog/monsterling-6602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/stickmugger/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Lôi DMG + 11.55% trong 10s khi tấn công bằng nguyên tố khắc chế",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Gourmet Chopsticks"
+  },
+  {
+    "id": "monsterling-6101",
+    "kind": "monsterling",
+    "title": "Stickphid",
+    "image": "/catalog/monsterling-6101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/stickphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Crit DMG + 6.25% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11102",
+    "kind": "monsterling",
+    "title": "Stumpster",
+    "image": "/catalog/monsterling-11102.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/stumpster/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Hỏa DMG + 6.57%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16502",
+    "kind": "monsterling",
+    "title": "Suhwa",
+    "image": "/catalog/monsterling-16502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/suhwa/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.93% trong 5s khi tấn công địch hệ Phong 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16402",
+    "kind": "monsterling",
+    "title": "Sun Lizarcher",
+    "image": "/catalog/monsterling-16402.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sun-lizarcher/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.93% trong 5s khi tấn công địch hệ Hỏa 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-16501",
+    "kind": "monsterling",
+    "title": "Sunek",
+    "image": "/catalog/monsterling-16501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sunek/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi tấn công địch hệ Phong 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12501",
+    "kind": "monsterling",
+    "title": "Swamp Odong",
+    "image": "/catalog/monsterling-12501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/swamp-odong/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi đánh trúng bằng kỹ năng đổi nhân vật: Mục tiêu: Thổ RES giảm 8% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Fabric Talismans"
+  },
+  {
+    "id": "monsterling-4201",
+    "kind": "monsterling",
+    "title": "Swellymander",
+    "image": "/catalog/monsterling-4201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/swellymander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "đòn đánh thường DMG + 6.25% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-6001",
+    "kind": "monsterling",
+    "title": "Sylphid",
+    "image": "/catalog/monsterling-6001.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/sylphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.25% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1101",
+    "kind": "monsterling",
+    "title": "Taglock",
+    "image": "/catalog/monsterling-1101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/taglock/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 5.5% trong 10s khi đánh trúng 20 lần (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Broken Fang"
+  },
+  {
+    "id": "monsterling-2402",
+    "kind": "monsterling",
+    "title": "Teal Cappy",
+    "image": "/catalog/monsterling-2402.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/teal-cappy/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt Crit DMG + 6.57% (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4702",
+    "kind": "monsterling",
+    "title": "Tealtaur",
+    "image": "/catalog/monsterling-4702.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/tealtaur/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Hỏa DMG + 11.55% lên boss bị choáng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Weathered Hoof"
+  },
+  {
+    "id": "monsterling-27201",
+    "kind": "monsterling",
+    "title": "The Great Unknown",
+    "image": "/catalog/monsterling-27201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/the-great-unknown/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi chiêu cuối đánh trúng: Tỉ lệ chí mạng tăng 11% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 45,
+      "def": 70,
+      "hp": 222
+    },
+    "linkName": "Twisted Circuit"
+  },
+  {
+    "id": "monsterling-26401",
+    "kind": "monsterling",
+    "title": "Titus",
+    "image": "/catalog/monsterling-26401.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/titus/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "DEF + 4.69% trong 5s khi tấn công địch hệ Lôi 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-12801",
+    "kind": "monsterling",
+    "title": "Toad-alee",
+    "image": "/catalog/monsterling-12801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/toad-alee/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: DEF + 6% trong 5s khi bị boss đánh trúng (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Ornate Shield"
+  },
+  {
+    "id": "monsterling-11101",
+    "kind": "monsterling",
+    "title": "Tree Youkai",
+    "image": "/catalog/monsterling-11101.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/tree-youkai/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đổi nhân vật Hỏa DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-10802",
+    "kind": "monsterling",
+    "title": "Treetoise",
+    "image": "/catalog/monsterling-10802.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/treetoise/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Toàn đội: DEF + 6.3% trong 10s khi đánh trúng đòn chí mạng lên boss",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Tree Tortoiseshell"
+  },
+  {
+    "id": "monsterling-3601",
+    "kind": "monsterling",
+    "title": "Troll",
+    "image": "/catalog/monsterling-3601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/troll/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "chiêu cuối Neutralization DMG + 6.25%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2301",
+    "kind": "monsterling",
+    "title": "Tunneler Mole",
+    "image": "/catalog/monsterling-2301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/tunneler-mole/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.25% lên mục tiêu bị đánh ngã",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11801",
+    "kind": "monsterling",
+    "title": "Turtlie",
+    "image": "/catalog/monsterling-11801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/turtlie/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Toàn đội: kỹ năng hỗ trợ DMG + 6.25% trong 5s khi bị boss đánh trúng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13301",
+    "kind": "monsterling",
+    "title": "Twisted Bloodflower",
+    "image": "/catalog/monsterling-13301.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/twisted-bloodflower/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Mục tiêu: Lôi RES - 6.25% trong 5s khi tấn công địch hệ Lôi 5 lần (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-13201",
+    "kind": "monsterling",
+    "title": "Twisted Spineflower",
+    "image": "/catalog/monsterling-13201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/twisted-spineflower/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Lôi DMG + 6.25% khi tấn công địch hệ Lôi 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-1601",
+    "kind": "monsterling",
+    "title": "Uncle Cappy",
+    "image": "/catalog/monsterling-1601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/uncle-cappy/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "kỹ năng đặc biệt Hỏa DMG + 8% (Hồi chiêu: 15s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Mushroom Basket"
+  },
+  {
+    "id": "monsterling-3701",
+    "kind": "monsterling",
+    "title": "Urgash",
+    "image": "/catalog/monsterling-3701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/urgash/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "chiêu cuối Elemental Weakness DMG + 8%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Destroyer's Horn"
+  },
+  {
+    "id": "monsterling-6003",
+    "kind": "monsterling",
+    "title": "Vamphid",
+    "image": "/catalog/monsterling-6003.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/vamphid/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Thổ DMG + 6.57% lên mục tiêu bị hất tung",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4601",
+    "kind": "monsterling",
+    "title": "Vectus",
+    "image": "/catalog/monsterling-4601.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/vectus/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "ATK + 4% trong 10s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Void's Balance"
+  },
+  {
+    "id": "monsterling-3503",
+    "kind": "monsterling",
+    "title": "Vikkymander",
+    "image": "/catalog/monsterling-3503.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/vikkymander/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "kỹ năng đặc biệt DMG + 6.57% trong 5s khi nhận 10 đòn đánh",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-4501",
+    "kind": "monsterling",
+    "title": "Void Friar",
+    "image": "/catalog/monsterling-4501.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/void-friar/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Elemental Weakness DMG + 6.25% trong 5s khi nhận đòn đánh (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-2901",
+    "kind": "monsterling",
+    "title": "White Wolf Fulminator",
+    "image": "/catalog/monsterling-2901.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/white-wolf-fulminator/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Critical Lôi DMG + 8%",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Shaman's Staff"
+  },
+  {
+    "id": "monsterling-701",
+    "kind": "monsterling",
+    "title": "White Wolf Warrior",
+    "image": "/catalog/monsterling-701.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/white-wolf-warrior/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Brawl DMG + 6.25% trong 5s khi đánh trúng đòn chí mạng (Hồi chiêu: 20s)",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-11602",
+    "kind": "monsterling",
+    "title": "White Wraith",
+    "image": "/catalog/monsterling-11602.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/white-wraith/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Hỏa DMG + 6.57% lên boss",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-26502",
+    "kind": "monsterling",
+    "title": "Whitelon",
+    "image": "/catalog/monsterling-26502.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/whitelon/",
+    "rarity": "5",
+    "hasLink": true,
+    "element": "",
+    "description": "Khi chiêu cuối đánh trúng: Mục tiêu: Băng RES giảm 8.4% trong 10 giây",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 41,
+      "def": 63,
+      "hp": 202
+    },
+    "linkName": "Iron Saw Horn"
+  },
+  {
+    "id": "monsterling-16201",
+    "kind": "monsterling",
+    "title": "Wind Spirit",
+    "image": "/catalog/monsterling-16201.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/wind-spirit/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "ATK + 3.13% khi tấn công địch hệ Phong 10 lần",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "monsterling-3801",
+    "kind": "monsterling",
+    "title": "Wolf",
+    "image": "/catalog/monsterling-3801.webp",
+    "source": "https://www.kaiden.gg/mongil/monsterlings/wolf/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "Physical DMG + 6.25% trong 5s khi đánh trúng đòn chí mạng",
+    "updated": "2026-10-26",
+    "traitSlots": 4,
+    "stats": {
+      "atk": 37,
+      "def": 57,
+      "hp": 182
+    }
+  },
+  {
+    "id": "artifact-1100051",
+    "kind": "artifact",
+    "title": "Unending Finale",
+    "image": "/catalog/artifact-1100051.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/unending-finale/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100050",
+    "kind": "artifact",
+    "title": "A Summer Soaked in Love",
+    "image": "/catalog/artifact-1100050.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/a-summer-soaked-in-love/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100036",
+    "kind": "artifact",
+    "title": "Plains Embroidering Dew",
+    "image": "/catalog/artifact-1100036.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/plains-embroidering-dew/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100032",
+    "kind": "artifact",
+    "title": "Melody Played on Heartstrings",
+    "image": "/catalog/artifact-1100032.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/melody-played-on-heartstrings/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100011",
+    "kind": "artifact",
+    "title": "Celestial Halo of Life",
+    "image": "/catalog/artifact-1100011.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/celestial-halo-of-life/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100045",
+    "kind": "artifact",
+    "title": "Monstrous Longing",
+    "image": "/catalog/artifact-1100045.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/monstrous-longing/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100043",
+    "kind": "artifact",
+    "title": "Suffocating Darkness",
+    "image": "/catalog/artifact-1100043.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/suffocating-darkness/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100022",
+    "kind": "artifact",
+    "title": "Wind-Harboring Broom",
+    "image": "/catalog/artifact-1100022.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/wind-harboring-broom/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100048",
+    "kind": "artifact",
+    "title": "Stabilized Superconductor",
+    "image": "/catalog/artifact-1100048.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/stabilized-superconductor/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100046",
+    "kind": "artifact",
+    "title": "Reward Virtue, Eliminate Evil",
+    "image": "/catalog/artifact-1100046.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/reward-virtue-eliminate-evil/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100044",
+    "kind": "artifact",
+    "title": "Thunder-raising Tremors",
+    "image": "/catalog/artifact-1100044.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/thunder-raising-tremors/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100040",
+    "kind": "artifact",
+    "title": "Serpent Dragon's White Scale",
+    "image": "/catalog/artifact-1100040.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/serpent-dragons-white-scale/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100031",
+    "kind": "artifact",
+    "title": "Exquisite Dragon Fire",
+    "image": "/catalog/artifact-1100031.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/exquisite-dragon-fire/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100049",
+    "kind": "artifact",
+    "title": "The Flame that Dreams of Justice",
+    "image": "/catalog/artifact-1100049.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/the-flame-that-dreams-of-justice/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100047",
+    "kind": "artifact",
+    "title": "Clashing Runaway Train",
+    "image": "/catalog/artifact-1100047.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/clashing-runaway-train/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100035",
+    "kind": "artifact",
+    "title": "To Whom the Dokkaebi Kneel",
+    "image": "/catalog/artifact-1100035.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/to-whom-the-dokkaebi-kneel/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100029",
+    "kind": "artifact",
+    "title": "Held Close by Nature",
+    "image": "/catalog/artifact-1100029.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/held-close-by-nature/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100027",
+    "kind": "artifact",
+    "title": "Savvy Investment",
+    "image": "/catalog/artifact-1100027.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/savvy-investment/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100023",
+    "kind": "artifact",
+    "title": "Blazing Kumiho",
+    "image": "/catalog/artifact-1100023.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/blazing-kumiho/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100020",
+    "kind": "artifact",
+    "title": "Subzero Verdict",
+    "image": "/catalog/artifact-1100020.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/subzero-verdict/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100002",
+    "kind": "artifact",
+    "title": "Frenzied Struggle",
+    "image": "/catalog/artifact-1100002.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/frenzied-struggle/",
+    "rarity": "5",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100038",
+    "kind": "artifact",
+    "title": "Military Band's Offbeat Marcher",
+    "image": "/catalog/artifact-1100038.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/military-bands-offbeat-marcher/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100028",
+    "kind": "artifact",
+    "title": "Forest Fragrance",
+    "image": "/catalog/artifact-1100028.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/forest-fragrance/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100024",
+    "kind": "artifact",
+    "title": "Overflowing Love",
+    "image": "/catalog/artifact-1100024.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/overflowing-love/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100015",
+    "kind": "artifact",
+    "title": "Celestial Halo of Protection",
+    "image": "/catalog/artifact-1100015.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/celestial-halo-of-protection/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100014",
+    "kind": "artifact",
+    "title": "Celestial Halo of Wisdom",
+    "image": "/catalog/artifact-1100014.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/celestial-halo-of-wisdom/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100042",
+    "kind": "artifact",
+    "title": "Fall from Grace",
+    "image": "/catalog/artifact-1100042.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/fall-from-grace/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100041",
+    "kind": "artifact",
+    "title": "Hawk's Flight",
+    "image": "/catalog/artifact-1100041.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/hawks-flight/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100034",
+    "kind": "artifact",
+    "title": "Shadow Lotus",
+    "image": "/catalog/artifact-1100034.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/shadow-lotus/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100033",
+    "kind": "artifact",
+    "title": "Tiger Hunter's Resolve",
+    "image": "/catalog/artifact-1100033.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/tiger-hunters-resolve/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100005",
+    "kind": "artifact",
+    "title": "Sinister Darkness",
+    "image": "/catalog/artifact-1100005.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/sinister-darkness/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100037",
+    "kind": "artifact",
+    "title": "Sugar Spike",
+    "image": "/catalog/artifact-1100037.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/sugar-spike/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100030",
+    "kind": "artifact",
+    "title": "Dreaming Adventurer",
+    "image": "/catalog/artifact-1100030.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/dreaming-adventurer/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100026",
+    "kind": "artifact",
+    "title": "Unrelenting Chivalry",
+    "image": "/catalog/artifact-1100026.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/unrelenting-chivalry/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100008",
+    "kind": "artifact",
+    "title": "Ground-Shaking Tremors",
+    "image": "/catalog/artifact-1100008.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/ground-shaking-tremors/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100039",
+    "kind": "artifact",
+    "title": "Key for Locks Yet to Come",
+    "image": "/catalog/artifact-1100039.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/key-for-locks-yet-to-come/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100025",
+    "kind": "artifact",
+    "title": "Upright Sword of Fire",
+    "image": "/catalog/artifact-1100025.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/upright-sword-of-fire/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100013",
+    "kind": "artifact",
+    "title": "Bloody Struggle",
+    "image": "/catalog/artifact-1100013.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/bloody-struggle/",
+    "rarity": "4",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100010",
+    "kind": "artifact",
+    "title": "Wings Embracing Silver Light",
+    "image": "/catalog/artifact-1100010.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/wings-embracing-silver-light/",
+    "rarity": "3",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100004",
+    "kind": "artifact",
+    "title": "Heart-Piercing Blade",
+    "image": "/catalog/artifact-1100004.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/heart-piercing-blade/",
+    "rarity": "3",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100007",
+    "kind": "artifact",
+    "title": "Encroaching Rift",
+    "image": "/catalog/artifact-1100007.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/encroaching-rift/",
+    "rarity": "3",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "artifact-1100001",
+    "kind": "artifact",
+    "title": "Surging Conviction",
+    "image": "/catalog/artifact-1100001.webp",
+    "source": "https://www.kaiden.gg/mongil/artifacts/surging-conviction/",
+    "rarity": "3",
+    "hasLink": false,
+    "element": "",
+    "description": "",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11500-0",
+    "kind": "equipment",
+    "title": "Corrupted Soul Helmet",
+    "slot": "head",
+    "setId": "set-11500",
+    "setName": "Abyss",
+    "image": "/catalog/equipment-set-11500-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/abyss/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11500-1",
+    "kind": "equipment",
+    "title": "Ominous Sculpture",
+    "slot": "chest",
+    "setId": "set-11500",
+    "setName": "Abyss",
+    "image": "/catalog/equipment-set-11500-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/abyss/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11500-2",
+    "kind": "equipment",
+    "title": "Abyssal Touch",
+    "slot": "hands",
+    "setId": "set-11500",
+    "setName": "Abyss",
+    "image": "/catalog/equipment-set-11500-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/abyss/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11500-3",
+    "kind": "equipment",
+    "title": "Lord of the Void's Greaves",
+    "slot": "feet",
+    "setId": "set-11500",
+    "setName": "Abyss",
+    "image": "/catalog/equipment-set-11500-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/abyss/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12400-0",
+    "kind": "equipment",
+    "title": "Ancient Stone Mask",
+    "slot": "head",
+    "setId": "set-12400",
+    "setName": "Ancient Stone",
+    "image": "/catalog/equipment-set-12400-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ancient-stone/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12400-1",
+    "kind": "equipment",
+    "title": "Ancient Stone Sandals",
+    "slot": "feet",
+    "setId": "set-12400",
+    "setName": "Ancient Stone",
+    "image": "/catalog/equipment-set-12400-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ancient-stone/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11400-0",
+    "kind": "equipment",
+    "title": "Warden Helmet",
+    "slot": "head",
+    "setId": "set-11400",
+    "setName": "Arbiter",
+    "image": "/catalog/equipment-set-11400-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/arbiter/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11400-1",
+    "kind": "equipment",
+    "title": "Arbiter of Nature",
+    "slot": "chest",
+    "setId": "set-11400",
+    "setName": "Arbiter",
+    "image": "/catalog/equipment-set-11400-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/arbiter/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11400-2",
+    "kind": "equipment",
+    "title": "Magic Vine Gloves",
+    "slot": "hands",
+    "setId": "set-11400",
+    "setName": "Arbiter",
+    "image": "/catalog/equipment-set-11400-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/arbiter/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11400-3",
+    "kind": "equipment",
+    "title": "Root's Footprints",
+    "slot": "feet",
+    "setId": "set-11400",
+    "setName": "Arbiter",
+    "image": "/catalog/equipment-set-11400-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/arbiter/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13500-0",
+    "kind": "equipment",
+    "title": "Undefeated Gisaeng's Headband",
+    "slot": "head",
+    "setId": "set-13500",
+    "setName": "Blossoms in Full Bloom",
+    "image": "/catalog/equipment-set-13500-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/blossoms-in-full-bloom/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13500-1",
+    "kind": "equipment",
+    "title": "Undefeated Gisaeng's Flower Slippers",
+    "slot": "feet",
+    "setId": "set-13500",
+    "setName": "Blossoms in Full Bloom",
+    "image": "/catalog/equipment-set-13500-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/blossoms-in-full-bloom/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12300-0",
+    "kind": "equipment",
+    "title": "Devourer's Sticky Gloves",
+    "slot": "hands",
+    "setId": "set-12300",
+    "setName": "Devourer of the Abyss",
+    "image": "/catalog/equipment-set-12300-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-of-the-abyss/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12300-1",
+    "kind": "equipment",
+    "title": "Devourer's Sticky Footwear",
+    "slot": "feet",
+    "setId": "set-12300",
+    "setName": "Devourer of the Abyss",
+    "image": "/catalog/equipment-set-12300-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-of-the-abyss/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12900-0",
+    "kind": "equipment",
+    "title": "Tyrant's Helmet",
+    "slot": "head",
+    "setId": "set-12900",
+    "setName": "Forest Tyrant",
+    "image": "/catalog/equipment-set-12900-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/forest-tyrant/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12900-1",
+    "kind": "equipment",
+    "title": "Tyrant's Armor",
+    "slot": "chest",
+    "setId": "set-12900",
+    "setName": "Forest Tyrant",
+    "image": "/catalog/equipment-set-12900-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/forest-tyrant/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12900-2",
+    "kind": "equipment",
+    "title": "Tyrant's Gauntlets",
+    "slot": "hands",
+    "setId": "set-12900",
+    "setName": "Forest Tyrant",
+    "image": "/catalog/equipment-set-12900-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/forest-tyrant/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12900-3",
+    "kind": "equipment",
+    "title": "Tyrant's Boots",
+    "slot": "feet",
+    "setId": "set-12900",
+    "setName": "Forest Tyrant",
+    "image": "/catalog/equipment-set-12900-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/forest-tyrant/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13400-0",
+    "kind": "equipment",
+    "title": "Fox Youkai's Fur Gloves",
+    "slot": "hands",
+    "setId": "set-13400",
+    "setName": "Fox Youkai's Fighting Spirit",
+    "image": "/catalog/equipment-set-13400-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/fox-youkais-fighting-spirit/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13400-1",
+    "kind": "equipment",
+    "title": "Fox Youkai's Paws",
+    "slot": "feet",
+    "setId": "set-13400",
+    "setName": "Fox Youkai's Fighting Spirit",
+    "image": "/catalog/equipment-set-13400-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/fox-youkais-fighting-spirit/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13200-0",
+    "kind": "equipment",
+    "title": "Gourmand's Hat",
+    "slot": "head",
+    "setId": "set-13200",
+    "setName": "Gourmand Level",
+    "image": "/catalog/equipment-set-13200-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmand-level/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13200-1",
+    "kind": "equipment",
+    "title": "Gourmand's Apron",
+    "slot": "chest",
+    "setId": "set-13200",
+    "setName": "Gourmand Level",
+    "image": "/catalog/equipment-set-13200-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmand-level/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13200-2",
+    "kind": "equipment",
+    "title": "Gourmand's Gloves",
+    "slot": "hands",
+    "setId": "set-13200",
+    "setName": "Gourmand Level",
+    "image": "/catalog/equipment-set-13200-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmand-level/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13200-3",
+    "kind": "equipment",
+    "title": "Gourmand's Slippers",
+    "slot": "feet",
+    "setId": "set-13200",
+    "setName": "Gourmand Level",
+    "image": "/catalog/equipment-set-13200-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmand-level/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12200-0",
+    "kind": "equipment",
+    "title": "Grand Banquet Chapeau",
+    "slot": "head",
+    "setId": "set-12200",
+    "setName": "Gourmand's Grand Banquet",
+    "image": "/catalog/equipment-set-12200-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmands-grand-banquet/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12200-1",
+    "kind": "equipment",
+    "title": "Grand Banquet Apron",
+    "slot": "chest",
+    "setId": "set-12200",
+    "setName": "Gourmand's Grand Banquet",
+    "image": "/catalog/equipment-set-12200-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gourmands-grand-banquet/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11900-0",
+    "kind": "equipment",
+    "title": "Fierce Tiger's Valor",
+    "slot": "head",
+    "setId": "set-11900",
+    "setName": "Hahnul's Roar",
+    "image": "/catalog/equipment-set-11900-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/hahnuls-roar/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11900-1",
+    "kind": "equipment",
+    "title": "Tiger Stripe Armor",
+    "slot": "chest",
+    "setId": "set-11900",
+    "setName": "Hahnul's Roar",
+    "image": "/catalog/equipment-set-11900-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/hahnuls-roar/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11900-2",
+    "kind": "equipment",
+    "title": "Beast Claws",
+    "slot": "hands",
+    "setId": "set-11900",
+    "setName": "Hahnul's Roar",
+    "image": "/catalog/equipment-set-11900-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/hahnuls-roar/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11900-3",
+    "kind": "equipment",
+    "title": "Beastly Footprints",
+    "slot": "feet",
+    "setId": "set-11900",
+    "setName": "Hahnul's Roar",
+    "image": "/catalog/equipment-set-11900-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/hahnuls-roar/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12500-0",
+    "kind": "equipment",
+    "title": "Crown of Eternal Frost",
+    "slot": "head",
+    "setId": "set-12500",
+    "setName": "Heart of Eternal Frost",
+    "image": "/catalog/equipment-set-12500-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/heart-of-eternal-frost/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12500-1",
+    "kind": "equipment",
+    "title": "Touch of Eternal Frost",
+    "slot": "hands",
+    "setId": "set-12500",
+    "setName": "Heart of Eternal Frost",
+    "image": "/catalog/equipment-set-12500-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/heart-of-eternal-frost/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14100-0",
+    "kind": "equipment",
+    "title": "Merciless Destroyer's Helmet",
+    "slot": "head",
+    "setId": "set-14100",
+    "setName": "Merciless Destroyer",
+    "image": "/catalog/equipment-set-14100-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/merciless-destroyer/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14100-1",
+    "kind": "equipment",
+    "title": "Merciless Destroyer's Breastplate",
+    "slot": "chest",
+    "setId": "set-14100",
+    "setName": "Merciless Destroyer",
+    "image": "/catalog/equipment-set-14100-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/merciless-destroyer/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14100-2",
+    "kind": "equipment",
+    "title": "Merciless Destroyer's Gauntlets",
+    "slot": "hands",
+    "setId": "set-14100",
+    "setName": "Merciless Destroyer",
+    "image": "/catalog/equipment-set-14100-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/merciless-destroyer/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14100-3",
+    "kind": "equipment",
+    "title": "Merciless Destroyer's Greaves",
+    "slot": "feet",
+    "setId": "set-14100",
+    "setName": "Merciless Destroyer",
+    "image": "/catalog/equipment-set-14100-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/merciless-destroyer/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13100-0",
+    "kind": "equipment",
+    "title": "Towering Mount Tai's Helmet",
+    "slot": "head",
+    "setId": "set-13100",
+    "setName": "Mount Tai's Towering Might",
+    "image": "/catalog/equipment-set-13100-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mount-tais-towering-might/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13100-1",
+    "kind": "equipment",
+    "title": "Towering Mount Tai's Iron Armor",
+    "slot": "chest",
+    "setId": "set-13100",
+    "setName": "Mount Tai's Towering Might",
+    "image": "/catalog/equipment-set-13100-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mount-tais-towering-might/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13100-2",
+    "kind": "equipment",
+    "title": "Towering Mount Tai's Gloves",
+    "slot": "hands",
+    "setId": "set-13100",
+    "setName": "Mount Tai's Towering Might",
+    "image": "/catalog/equipment-set-13100-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mount-tais-towering-might/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13100-3",
+    "kind": "equipment",
+    "title": "Towering Mount Tai's Boots",
+    "slot": "feet",
+    "setId": "set-13100",
+    "setName": "Mount Tai's Towering Might",
+    "image": "/catalog/equipment-set-13100-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mount-tais-towering-might/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13300-0",
+    "kind": "equipment",
+    "title": "Manwol's Antlers",
+    "slot": "head",
+    "setId": "set-13300",
+    "setName": "Night of a Full Moon",
+    "image": "/catalog/equipment-set-13300-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/night-of-a-full-moon/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13300-1",
+    "kind": "equipment",
+    "title": "Radiant Garb",
+    "slot": "chest",
+    "setId": "set-13300",
+    "setName": "Night of a Full Moon",
+    "image": "/catalog/equipment-set-13300-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/night-of-a-full-moon/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13300-2",
+    "kind": "equipment",
+    "title": "Great Sage's Touch",
+    "slot": "hands",
+    "setId": "set-13300",
+    "setName": "Night of a Full Moon",
+    "image": "/catalog/equipment-set-13300-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/night-of-a-full-moon/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13300-3",
+    "kind": "equipment",
+    "title": "Moonlight Hooves",
+    "slot": "feet",
+    "setId": "set-13300",
+    "setName": "Night of a Full Moon",
+    "image": "/catalog/equipment-set-13300-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/night-of-a-full-moon/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13000-0",
+    "kind": "equipment",
+    "title": "Ascendant White Wolf's Mask",
+    "slot": "head",
+    "setId": "set-13000",
+    "setName": "Sirius",
+    "image": "/catalog/equipment-set-13000-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sirius/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13000-1",
+    "kind": "equipment",
+    "title": "Ascendant White Wolf's Restraints",
+    "slot": "chest",
+    "setId": "set-13000",
+    "setName": "Sirius",
+    "image": "/catalog/equipment-set-13000-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sirius/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13000-2",
+    "kind": "equipment",
+    "title": "Ascendant White Wolf's Grasp",
+    "slot": "hands",
+    "setId": "set-13000",
+    "setName": "Sirius",
+    "image": "/catalog/equipment-set-13000-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sirius/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13000-3",
+    "kind": "equipment",
+    "title": "Ascendant White Wolf's Claw",
+    "slot": "feet",
+    "setId": "set-13000",
+    "setName": "Sirius",
+    "image": "/catalog/equipment-set-13000-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sirius/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11300-0",
+    "kind": "equipment",
+    "title": "Spirit King's Coronet",
+    "slot": "head",
+    "setId": "set-11300",
+    "setName": "Spirit King",
+    "image": "/catalog/equipment-set-11300-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/spirit-king/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11300-1",
+    "kind": "equipment",
+    "title": "Spirit Barrier",
+    "slot": "chest",
+    "setId": "set-11300",
+    "setName": "Spirit King",
+    "image": "/catalog/equipment-set-11300-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/spirit-king/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11300-2",
+    "kind": "equipment",
+    "title": "Sacred Grasp",
+    "slot": "hands",
+    "setId": "set-11300",
+    "setName": "Spirit King",
+    "image": "/catalog/equipment-set-11300-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/spirit-king/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11300-3",
+    "kind": "equipment",
+    "title": "Spirit Rock Boots",
+    "slot": "feet",
+    "setId": "set-11300",
+    "setName": "Spirit King",
+    "image": "/catalog/equipment-set-11300-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/spirit-king/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12100-0",
+    "kind": "equipment",
+    "title": "Dark Soloist's Helm",
+    "slot": "head",
+    "setId": "set-12100",
+    "setName": "Swamp Lord",
+    "image": "/catalog/equipment-set-12100-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/swamp-lord/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12100-1",
+    "kind": "equipment",
+    "title": "Crimson Chestplate of Disaster",
+    "slot": "chest",
+    "setId": "set-12100",
+    "setName": "Swamp Lord",
+    "image": "/catalog/equipment-set-12100-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/swamp-lord/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12100-2",
+    "kind": "equipment",
+    "title": "Crimson Gloves of Disaster",
+    "slot": "hands",
+    "setId": "set-12100",
+    "setName": "Swamp Lord",
+    "image": "/catalog/equipment-set-12100-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/swamp-lord/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12100-3",
+    "kind": "equipment",
+    "title": "Dark Soloist's Boots",
+    "slot": "feet",
+    "setId": "set-12100",
+    "setName": "Swamp Lord",
+    "image": "/catalog/equipment-set-12100-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/swamp-lord/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14000-0",
+    "kind": "equipment",
+    "title": "The Nameless One's Helmet",
+    "slot": "head",
+    "setId": "set-14000",
+    "setName": "The Nameless One",
+    "image": "/catalog/equipment-set-14000-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/the-nameless-one/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14000-1",
+    "kind": "equipment",
+    "title": "Armor of the Nameless One",
+    "slot": "chest",
+    "setId": "set-14000",
+    "setName": "The Nameless One",
+    "image": "/catalog/equipment-set-14000-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/the-nameless-one/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14000-2",
+    "kind": "equipment",
+    "title": "Gloves of the Nameless One",
+    "slot": "hands",
+    "setId": "set-14000",
+    "setName": "The Nameless One",
+    "image": "/catalog/equipment-set-14000-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/the-nameless-one/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-14000-3",
+    "kind": "equipment",
+    "title": "Boots of the Nameless One",
+    "slot": "feet",
+    "setId": "set-14000",
+    "setName": "The Nameless One",
+    "image": "/catalog/equipment-set-14000-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/the-nameless-one/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12700-0",
+    "kind": "equipment",
+    "title": "Almighty Jade Odong Hat",
+    "slot": "head",
+    "setId": "set-12700",
+    "setName": "Thousand-Year-Old Tree",
+    "image": "/catalog/equipment-set-12700-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thousand-year-old-tree/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12700-1",
+    "kind": "equipment",
+    "title": "Almighty Jade Odong Armor",
+    "slot": "chest",
+    "setId": "set-12700",
+    "setName": "Thousand-Year-Old Tree",
+    "image": "/catalog/equipment-set-12700-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thousand-year-old-tree/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12600-0",
+    "kind": "equipment",
+    "title": "Vanguard Buff Coat",
+    "slot": "chest",
+    "setId": "set-12600",
+    "setName": "Vanguard of Victory",
+    "image": "/catalog/equipment-set-12600-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/vanguard-of-victory/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12600-1",
+    "kind": "equipment",
+    "title": "Vanguard Leather Boots",
+    "slot": "feet",
+    "setId": "set-12600",
+    "setName": "Vanguard of Victory",
+    "image": "/catalog/equipment-set-12600-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/vanguard-of-victory/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12800-0",
+    "kind": "equipment",
+    "title": "Victorious General's Gilded Armguards",
+    "slot": "hands",
+    "setId": "set-12800",
+    "setName": "Victorious General's Rites",
+    "image": "/catalog/equipment-set-12800-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/victorious-generals-rites/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12800-1",
+    "kind": "equipment",
+    "title": "Victorious General's Gilded Greaves",
+    "slot": "feet",
+    "setId": "set-12800",
+    "setName": "Victorious General's Rites",
+    "image": "/catalog/equipment-set-12800-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/victorious-generals-rites/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11600-0",
+    "kind": "equipment",
+    "title": "Eerie Horned Helmet",
+    "slot": "head",
+    "setId": "set-11600",
+    "setName": "West Wind",
+    "image": "/catalog/equipment-set-11600-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/west-wind/",
+    "rarity": "5",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11600-1",
+    "kind": "equipment",
+    "title": "Avenger's Prayer Beads",
+    "slot": "chest",
+    "setId": "set-11600",
+    "setName": "West Wind",
+    "image": "/catalog/equipment-set-11600-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/west-wind/",
+    "rarity": "5",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11600-2",
+    "kind": "equipment",
+    "title": "Avenger's Gauntlet",
+    "slot": "hands",
+    "setId": "set-11600",
+    "setName": "West Wind",
+    "image": "/catalog/equipment-set-11600-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/west-wind/",
+    "rarity": "5",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11600-3",
+    "kind": "equipment",
+    "title": "Breeze Walkers",
+    "slot": "feet",
+    "setId": "set-11600",
+    "setName": "West Wind",
+    "image": "/catalog/equipment-set-11600-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/west-wind/",
+    "rarity": "5",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10600-0",
+    "kind": "equipment",
+    "title": "Assault Squad Buff Coat",
+    "slot": "chest",
+    "setId": "set-10600",
+    "setName": "Assault Squad Leader",
+    "image": "/catalog/equipment-set-10600-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/assault-squad-leader/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10600-1",
+    "kind": "equipment",
+    "title": "Assault Squad Leather Boots",
+    "slot": "feet",
+    "setId": "set-10600",
+    "setName": "Assault Squad Leader",
+    "image": "/catalog/equipment-set-10600-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/assault-squad-leader/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11200-0",
+    "kind": "equipment",
+    "title": "Devourer's Hat",
+    "slot": "head",
+    "setId": "set-11200",
+    "setName": "Devourer Stance",
+    "image": "/catalog/equipment-set-11200-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-stance/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11200-1",
+    "kind": "equipment",
+    "title": "Devourer's Apron",
+    "slot": "chest",
+    "setId": "set-11200",
+    "setName": "Devourer Stance",
+    "image": "/catalog/equipment-set-11200-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-stance/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11200-2",
+    "kind": "equipment",
+    "title": "Devourer's Gloves",
+    "slot": "hands",
+    "setId": "set-11200",
+    "setName": "Devourer Stance",
+    "image": "/catalog/equipment-set-11200-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-stance/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11200-3",
+    "kind": "equipment",
+    "title": "Devourer's Sandals",
+    "slot": "feet",
+    "setId": "set-11200",
+    "setName": "Devourer Stance",
+    "image": "/catalog/equipment-set-11200-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/devourer-stance/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11000-0",
+    "kind": "equipment",
+    "title": "Frenzied Wolf's Mask",
+    "slot": "head",
+    "setId": "set-11000",
+    "setName": "Frenzied White Wolf",
+    "image": "/catalog/equipment-set-11000-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/frenzied-white-wolf/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11000-1",
+    "kind": "equipment",
+    "title": "Frenzied Wolf's Restraints",
+    "slot": "chest",
+    "setId": "set-11000",
+    "setName": "Frenzied White Wolf",
+    "image": "/catalog/equipment-set-11000-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/frenzied-white-wolf/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11000-2",
+    "kind": "equipment",
+    "title": "Frenzied Wolf's Claws",
+    "slot": "hands",
+    "setId": "set-11000",
+    "setName": "Frenzied White Wolf",
+    "image": "/catalog/equipment-set-11000-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/frenzied-white-wolf/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11000-3",
+    "kind": "equipment",
+    "title": "Frenzied Wolf's Sprinters",
+    "slot": "feet",
+    "setId": "set-11000",
+    "setName": "Frenzied White Wolf",
+    "image": "/catalog/equipment-set-11000-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/frenzied-white-wolf/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12000-0",
+    "kind": "equipment",
+    "title": "Undefeated Gisaeng's Headband",
+    "slot": "head",
+    "setId": "set-12000",
+    "setName": "Gisaeng's Glow Up",
+    "image": "/catalog/equipment-set-12000-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gisaengs-glow-up/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-12000-1",
+    "kind": "equipment",
+    "title": "Undefeated Gisaeng's Flower Slippers",
+    "slot": "feet",
+    "setId": "set-12000",
+    "setName": "Gisaeng's Glow Up",
+    "image": "/catalog/equipment-set-12000-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gisaengs-glow-up/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10100-0",
+    "kind": "equipment",
+    "title": "Glutton's Hat",
+    "slot": "head",
+    "setId": "set-10100",
+    "setName": "Glutton's Visage",
+    "image": "/catalog/equipment-set-10100-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gluttons-visage/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10100-1",
+    "kind": "equipment",
+    "title": "Glutton's Apron",
+    "slot": "chest",
+    "setId": "set-10100",
+    "setName": "Glutton's Visage",
+    "image": "/catalog/equipment-set-10100-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/gluttons-visage/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10900-0",
+    "kind": "equipment",
+    "title": "Green Nightmare Helm",
+    "slot": "head",
+    "setId": "set-10900",
+    "setName": "Green Nightmare",
+    "image": "/catalog/equipment-set-10900-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/green-nightmare/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10900-1",
+    "kind": "equipment",
+    "title": "Green Nightmare Armor",
+    "slot": "chest",
+    "setId": "set-10900",
+    "setName": "Green Nightmare",
+    "image": "/catalog/equipment-set-10900-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/green-nightmare/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10900-2",
+    "kind": "equipment",
+    "title": "Green Nightmare Gauntlets",
+    "slot": "hands",
+    "setId": "set-10900",
+    "setName": "Green Nightmare",
+    "image": "/catalog/equipment-set-10900-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/green-nightmare/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10900-3",
+    "kind": "equipment",
+    "title": "Green Nightmare Boots",
+    "slot": "feet",
+    "setId": "set-10900",
+    "setName": "Green Nightmare",
+    "image": "/catalog/equipment-set-10900-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/green-nightmare/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10500-0",
+    "kind": "equipment",
+    "title": "Frozen Crown",
+    "slot": "head",
+    "setId": "set-10500",
+    "setName": "Ice Heart",
+    "image": "/catalog/equipment-set-10500-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ice-heart/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10500-1",
+    "kind": "equipment",
+    "title": "Touch of Frost",
+    "slot": "hands",
+    "setId": "set-10500",
+    "setName": "Ice Heart",
+    "image": "/catalog/equipment-set-10500-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/ice-heart/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10800-0",
+    "kind": "equipment",
+    "title": "Gilded Armguards",
+    "slot": "hands",
+    "setId": "set-10800",
+    "setName": "Military Officer's Courtesy",
+    "image": "/catalog/equipment-set-10800-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/military-officers-courtesy/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10800-1",
+    "kind": "equipment",
+    "title": "Gilded Greaves",
+    "slot": "feet",
+    "setId": "set-10800",
+    "setName": "Military Officer's Courtesy",
+    "image": "/catalog/equipment-set-10800-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/military-officers-courtesy/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11700-0",
+    "kind": "equipment",
+    "title": "Eunwol's Antlers",
+    "slot": "head",
+    "setId": "set-11700",
+    "setName": "Moonshadow",
+    "image": "/catalog/equipment-set-11700-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/moonshadow/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11700-1",
+    "kind": "equipment",
+    "title": "Moonlight Clothes",
+    "slot": "chest",
+    "setId": "set-11700",
+    "setName": "Moonshadow",
+    "image": "/catalog/equipment-set-11700-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/moonshadow/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11700-2",
+    "kind": "equipment",
+    "title": "Sage's Touch",
+    "slot": "hands",
+    "setId": "set-11700",
+    "setName": "Moonshadow",
+    "image": "/catalog/equipment-set-11700-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/moonshadow/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11700-3",
+    "kind": "equipment",
+    "title": "Shadow Hooves",
+    "slot": "feet",
+    "setId": "set-11700",
+    "setName": "Moonshadow",
+    "image": "/catalog/equipment-set-11700-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/moonshadow/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11100-0",
+    "kind": "equipment",
+    "title": "Mountain Peak Helm",
+    "slot": "head",
+    "setId": "set-11100",
+    "setName": "Mountain Peak Majesty",
+    "image": "/catalog/equipment-set-11100-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mountain-peak-majesty/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11100-1",
+    "kind": "equipment",
+    "title": "Mountain Peak Iron Armor",
+    "slot": "chest",
+    "setId": "set-11100",
+    "setName": "Mountain Peak Majesty",
+    "image": "/catalog/equipment-set-11100-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mountain-peak-majesty/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11100-2",
+    "kind": "equipment",
+    "title": "Mountain Peak Gloves",
+    "slot": "hands",
+    "setId": "set-11100",
+    "setName": "Mountain Peak Majesty",
+    "image": "/catalog/equipment-set-11100-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mountain-peak-majesty/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11100-3",
+    "kind": "equipment",
+    "title": "Mountain Peak Marching Boots",
+    "slot": "feet",
+    "setId": "set-11100",
+    "setName": "Mountain Peak Majesty",
+    "image": "/catalog/equipment-set-11100-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mountain-peak-majesty/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10700-0",
+    "kind": "equipment",
+    "title": "Jade Odong Hat",
+    "slot": "head",
+    "setId": "set-10700",
+    "setName": "Mystical Jade Odong",
+    "image": "/catalog/equipment-set-10700-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mystical-jade-odong/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10700-1",
+    "kind": "equipment",
+    "title": "Jade Odong Brigandine",
+    "slot": "chest",
+    "setId": "set-10700",
+    "setName": "Mystical Jade Odong",
+    "image": "/catalog/equipment-set-10700-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/mystical-jade-odong/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11800-0",
+    "kind": "equipment",
+    "title": "Mad Fox's Fur Gloves",
+    "slot": "hands",
+    "setId": "set-11800",
+    "setName": "Onsae's Dance",
+    "image": "/catalog/equipment-set-11800-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/onsaes-dance/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-11800-1",
+    "kind": "equipment",
+    "title": "Mad Fox's Paws",
+    "slot": "feet",
+    "setId": "set-11800",
+    "setName": "Onsae's Dance",
+    "image": "/catalog/equipment-set-11800-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/onsaes-dance/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13700-0",
+    "kind": "equipment",
+    "title": "Speechless Destroyer's Chestplate",
+    "slot": "chest",
+    "setId": "set-13700",
+    "setName": "Silent Dismantler",
+    "image": "/catalog/equipment-set-13700-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/silent-dismantler/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13700-1",
+    "kind": "equipment",
+    "title": "Speechless Destroyer's Gloves",
+    "slot": "hands",
+    "setId": "set-13700",
+    "setName": "Silent Dismantler",
+    "image": "/catalog/equipment-set-13700-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/silent-dismantler/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10200-0",
+    "kind": "equipment",
+    "title": "Gooey Gloves",
+    "slot": "hands",
+    "setId": "set-10200",
+    "setName": "Sticky Gorger",
+    "image": "/catalog/equipment-set-10200-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sticky-gorger/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10200-1",
+    "kind": "equipment",
+    "title": "Gooey Shoes",
+    "slot": "feet",
+    "setId": "set-10200",
+    "setName": "Sticky Gorger",
+    "image": "/catalog/equipment-set-10200-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/sticky-gorger/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10400-0",
+    "kind": "equipment",
+    "title": "Stone Mask",
+    "slot": "head",
+    "setId": "set-10400",
+    "setName": "Stone Heart",
+    "image": "/catalog/equipment-set-10400-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/stone-heart/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-10400-1",
+    "kind": "equipment",
+    "title": "Stone Sandals",
+    "slot": "feet",
+    "setId": "set-10400",
+    "setName": "Stone Heart",
+    "image": "/catalog/equipment-set-10400-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/stone-heart/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13600-0",
+    "kind": "equipment",
+    "title": "Worry Crusher Hat",
+    "slot": "head",
+    "setId": "set-13600",
+    "setName": "Thought Shredder",
+    "image": "/catalog/equipment-set-13600-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thought-shredder/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13600-1",
+    "kind": "equipment",
+    "title": "Worry Crusher Footwear",
+    "slot": "feet",
+    "setId": "set-13600",
+    "setName": "Thought Shredder",
+    "image": "/catalog/equipment-set-13600-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/thought-shredder/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13800-0",
+    "kind": "equipment",
+    "title": "Violent Predator's Helmet",
+    "slot": "head",
+    "setId": "set-13800",
+    "setName": "Violent Predator",
+    "image": "/catalog/equipment-set-13800-0.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/violent-predator/",
+    "rarity": "4",
+    "description": "HP",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13800-1",
+    "kind": "equipment",
+    "title": "Violent Predator's Chestplate",
+    "slot": "chest",
+    "setId": "set-13800",
+    "setName": "Violent Predator",
+    "image": "/catalog/equipment-set-13800-1.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/violent-predator/",
+    "rarity": "4",
+    "description": "DEF",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13800-2",
+    "kind": "equipment",
+    "title": "Violent Predator's Gauntlets",
+    "slot": "hands",
+    "setId": "set-13800",
+    "setName": "Violent Predator",
+    "image": "/catalog/equipment-set-13800-2.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/violent-predator/",
+    "rarity": "4",
+    "description": "ATK",
+    "updated": "2026-10-26"
+  },
+  {
+    "id": "equipment-set-13800-3",
+    "kind": "equipment",
+    "title": "Violent Predator's Greaves",
+    "slot": "feet",
+    "setId": "set-13800",
+    "setName": "Violent Predator",
+    "image": "/catalog/equipment-set-13800-3.webp",
+    "source": "https://www.kaiden.gg/mongil/equipment/violent-predator/",
+    "rarity": "4",
+    "description": "Role Specialization",
+    "updated": "2026-10-26"
+  }
+]
